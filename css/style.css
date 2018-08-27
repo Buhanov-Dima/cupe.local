@@ -128,7 +128,23 @@ p, h1, h2, h3, h4, h5, h6 { margin: 0; font-family: 'ProximaNova';font-weight: n
   height: 387px;
   padding: 30px;
   margin-bottom: 30px;
+  position: relative;
 }
+.wrap-ctm {
+  position: relative;
+  overflow: hidden;
+  width: 202px;
+  height: 202px;
+}
+
+.wrap-ctm .cm-main img{
+  width: 100%;
+  max-width: 202px;
+  height: 250px;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
 
 .wrap-img {
 	overflow: hidden;
@@ -539,7 +555,8 @@ footer {
   font-family: "ProximaNova-Bold";
   color: rgb(51, 51, 51);
   position: relative;
-  display: inline-flex;  
+  display: inline-flex;
+  margin-bottom: 50px;
 }
 
 .stan-h::before {
@@ -564,4 +581,90 @@ footer {
 	top: 0;
 	bottom: 0;
 	margin: auto;
+}
+
+#m-b1 .cat-item {
+	margin-bottom: 40px;
+}
+.ct-form.man::before {
+	content: '';
+	position: absolute;
+	right: -85px;
+	left: auto;
+	background: url('/img/main/man.png') no-repeat right;
+	background-size: contain;
+	width: 280px;
+	height: 258px;
+	bottom: 0;
+}
+
+.ct-form.man::after {
+	content: '';
+	position: absolute;
+	width: 130px;
+	height: 130px;
+	border: 3px solid #008bd0;
+	right: -25px;
+	top: 25px;
+	z-index: -1;
+}
+
+.hidden {
+  display: none;
+  position: absolute;
+  max-width: 360px;
+  max-height: 450px;
+  z-index: 1;
+  top: 0;
+  left: 20px;
+}
+
+.hidden .main-form {
+  margin-top: 40px;
+  margin-bottom: 0; 
+}
+#m-b3 {
+  position: relative;
+  top: 77px;
+}
+#m-b4 {
+  background: url('/img/bg/bg-4.jpg') no-repeat center;
+  background-size: cover;
+  padding: 150px 0;
+}
+
+.zayavka {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 48%;
+  margin-bottom: 50px;
+}
+.zayavka img {
+  margin-right: 20px;
+  width: 125px;
+  height: 125px;
+}
+.wrap-zayavka {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.zayavka-txt b{
+  font-size: 20px;
+  font-family: 'ProximaNova-Semibold';
+}
+.zayavka-txt p{
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  font-family: 'ProximaNova-Light';
+}
+.ideas {
+  text-align: center;
+}
+.ideas .stan-h {
+  color: #ffffff;
+  margin-bottom: 40px;
 }

@@ -1,44 +1,7 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<title>Node</title>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <link rel="shortcut icon" href="https://hello.node.io/wp-content/themes/node/assets/img/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="https://hello.node.io/wp-content/themes/node/assets/img/favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700" rel="stylesheet">
-	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="css/style-xxl.css" media="only screen and (max-width:1450px)">
-	<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
-	<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
-	<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
-	<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
-</head>
-<body>
+<?php include ('head.php'); ?>
 <header>
 <div class="bg-main">
-	<div class="container">
-		<div class="row">
-			<div class="col-xl-12">
-				<div class="menu">
-					<div class="logo"><a href="#"><img src="/img/logo.png" alt=""></a></div>
-					<div class="menu-a">
-						<a href="#">О компании</a>
-						<a href="#">Производство</a>
-						<a href="#">Виды шкафов</a>
-						<a href="#">Каталог</a>
-						<a href="#">Калькулятор</a>
-						<a href="#">Статьи</a>
-						<a href="#">Контакты</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php include ('header.php'); ?>
 
 	<div class="container">
 		<div class="row align-items-center">
@@ -87,29 +50,154 @@
 				<h1 class="stan-h">Виды шкафов</h1>
 			</div>
 			<div class="col-xl-4">
-				
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-4.jpg" alt=""></div>
+					<div class="cm-txt"><p>Встроенные</p></div>
+				</div>
+
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-7.jpg" alt=""></div>
+					<div class="cm-txt"><p>Угловые</p></div>
+				</div>
 			</div>
 
 			<div class="col-xl-4">
-				
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-5.jpg" alt=""></div>
+					<div class="cm-txt"><p>Корпусные</p></div>
+				</div>
+
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-8.jpg" alt=""></div>
+					<div class="cm-txt"><p>С пескоструйным дизайном<br>или орнаментом</p></div>
+				</div>
 			</div>
 
 			<div class="col-xl-4">
-				
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-6.jpg" alt=""></div>
+					<div class="cm-txt"><p>Гардеробные</p></div>
+				</div>
+
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-9.jpg" alt=""></div>
+					<div class="cm-txt"><p>С фотопечатью</p></div>
+				</div>
+			</div>
+
+			<div class="col-xl-12 text-center">
+				<h1 class="stan-h">Каталог</h1>
+			</div>
+
+			<div class="col-xl-4">
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-1.jpg" alt=""></div>
+					<div class="cm-txt"><p>Материалы и цвета</p></div>
+				</div>
+			</div>
+
+			<div class="col-xl-4">
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-2.jpg" alt=""></div>
+					<div class="cm-txt"><p>Системы дверей</p></div>
+				</div>
+			</div>
+
+			<div class="col-xl-4">
+				<div class="cat-item">
+					<div class="cm-main"><img src="/img/catalogy/item-3.jpg" alt=""></div>
+					<div class="cm-txt"><p>Фурнитура и конструктивные<br>элементы</p></div>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
-<footer>
+<section id="m-b3">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h1 class="text-center" style="margin: 5em 0;"><b>Калькулятор</b></h1>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-12">
+				<div class="ct-form man">
+					<h1>Бесплатная консультация дизайнера</h1>
+					<form action="" class="open-form">
+						<input type="text" name="" class="phone" placeholder="Ваш телефон:">
+						<input type="text" name="" class="name" placeholder="Ваше имя:">
+						<button class="ct-btn2">Оставить заявку</button>
+					</form>
+					<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных <br>и соглашаетесь c политикой конфиденциальности»</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
-</footer>
+<section id="m-b4">
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-12">
+				<div class="ideas">
+					<h1 class="stan-h text-center">4 простых шага <br> от идеи до реализации</h1>
+					<div class="wrap-zayavka">
+						<div class="zayavka">
+							<img src="/img/icons/ico-5.png" alt="">
+							<div class="zayavka-txt">
+								<p><b>Заявка и бесплатный выезд на замеры</b></p>
+								<p>Оставьте заявку на замер на нашем сайте<br> или по телефону: + 7 (499) 130 39 99<br> Специалисты подъедут в любой удобный<br> для Вас день и время.</p>
+							</div>
+						</div>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
-	<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-	<script src="/js/main.js"></script>
-</body>
-</html>
+						<div class="zayavka">
+							<img src="/img/icons/ico-6.png" alt="">
+							<div class="zayavka-txt">
+								<p><b>Создание дизайн-проекта</b></p>
+								<p>Команда квалифцированных дизайнеров разработает <br> проект с учетом ваших личных предпочтений и <br>интерьера помещения. А также сделают ваш шкаф <br>максимально удобным и функциональнным в <br>зависимости от его назначения и места установки.</p>
+							</div>
+						</div>
+
+						<div class="zayavka">
+							<img src="/img/icons/ico-7.png" alt="">
+							<div class="zayavka-txt">
+								<p><b>Производство</b></p>
+								<p>Имея собственную фабрику и проверенных <br>партнеров-производителей мы изготовим <br>все материалы и комплектующие для шкафа <br>за 1 день (до 3-5 дней для особо сложных проектов)</p>
+							</div>
+						</div>
+
+						<div class="zayavka">
+							<img src="/img/icons/ico-8.png" alt="">
+							<div class="zayavka-txt">
+								<p><b>Доставка и сбор</b></p>
+								<p>В назначенный день и удобное для Вас время наши <br>специалисты привезут мебель (в разобранном виде).<br>Вы можете осуществить сбор сами или же заказать сбор у наших специалистов на следующий день <br>после достаки / или назнавить другую дату сборки.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-12">
+				<div class="wrap-news">
+					<h3>Статьи и новости</h3>
+					<div class="statya">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<?php include ('footer.php'); ?>
