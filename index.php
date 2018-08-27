@@ -185,12 +185,25 @@
 
 <section>
 	<div class="container">
-		<div class="row">
+		<div class="row no-gutters">
 			<div class="col-xl-12">
 				<div class="wrap-news">
 					<h3>Статьи и новости</h3>
-					<div class="statya">
-						
+					<div class="wrap-statya">
+						<div class="stats">
+							<div class="statya">
+								<div class="stat-img"><img src="/img/main/hand.jpg" alt=""></div>
+							</div>
+							<p>На что обратить внимание при выборе шкафа-купе</p>
+							<p>Шкаф-купе - это очень удобно и практично. Благодаря раздвижным <br>дверям, он не сужает пространство комнаты, а высокие стенки <br>(почти под потолок), позволяют сложить в шкаф все, что нужно...</p>
+						</div>
+						<div class="stats">
+							<div class="statya">
+								<div class="stat-img"><img src="/img/main/hand.jpg" alt=""></div>
+							</div>
+							<p>На что обратить внимание при выборе шкафа-купе</p>
+							<p>Шкаф-купе - это очень удобно и практично. Благодаря раздвижным <br>дверям, он не сужает пространство комнаты, а высокие стенки <br>(почти под потолок), позволяют сложить в шкаф все, что нужно...</p>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -198,6 +211,23 @@
 	</div>
 </section>
 
+<section>
+	<div class="container">
+		<div class="row no-gutters">
+			<div class="col-xl-12">
+				<div class="ct-form girl-2">
+					<h1>Бесплатная консультация дизайнера</h1>
+					<form action="" class="open-form">
+						<input type="text" name="" class="phone" placeholder="Ваш телефон:">
+						<input type="text" name="" class="name" placeholder="Ваше имя:">
+						<button class="ct-btn2">Оставить заявку</button>
+					</form>
+					<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных <br>и соглашаетесь c политикой конфиденциальности»</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 
 <?php include ('footer.php'); ?>
