@@ -79,18 +79,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-1" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-1" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -101,18 +126,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-2" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-2" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -123,18 +173,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-3" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-3" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -145,18 +220,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-4" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-4" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -167,18 +267,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-5" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-5" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -189,18 +314,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-6" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-6" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -211,18 +361,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-7" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-7" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -233,18 +408,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-8" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-8" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 
 				<div class="cat-items">
@@ -255,18 +455,43 @@
 					</div>
 					<h4>Дуб Санома</h4>
 					<p>Номер</p>
-					<button class="ct-btn">Подробнее</button>
-					<div class="hidden">
-						<div class="wrap-main-rightbar">
-							<form action="" class="main-form">
-								<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
-								<input type="text" name="" class="m-name" placeholder="Ваше имя">
-								<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
-								<button class="btn-form">Оставить заявку</button>
-								<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
-							</form>
-						</div>
-					</div>
+					<button data-fancybox data-src="#art-9" href="javascript:;" class="ct-btn">Подробнее</button>
+				    <div id="art-9" class="hidden">
+				       	<h5>Дуб Санома</h5>
+				       	<div data-selectable="true" class="art-txt">
+				       		<p>Категория: Античные ручки Оскар</p>
+				       		<p>Артикул: 21 163</p>
+				       	</div>
+				       	<div data-selectable="true" class="art-main">
+				       		<div class="art-main-img">
+				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		</div>
+				       		<div class="wrap-txt-info">
+				       			<div class="txt-name">
+				       				<div class="txt-name1">
+				       					<p>Название .................................................</p>
+				       					<p>Размер ......................................................</p>
+				       					<p>Производитель ......................................</p>
+				       					<p>Ед. измерения ........................................</p>
+				       				</div>
+				       				<div class="txt-name2">
+				       					<p>Античная ручка</p>
+				       					<p>15х56х34 мм.</p>
+				       					<p>Китай</p>
+				       					<p>шт.</p>
+				       				</div>
+				       			</div>
+				       			<div class="txt-colors">
+				       				<p>Цвет: Чёрный</p>
+				       			</div>
+				       			<div class="zapros">
+				       				<p>Цена по запросу:</p>
+				       				<button class="zs-btn">Узнать стоимость</button>
+				       			</div>
+				       			<p>Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении...</p>
+				       		</div>
+				       	</div>
+				    </div>
 				</div>
 			</div>
 			<div class="papers">

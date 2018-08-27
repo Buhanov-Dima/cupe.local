@@ -611,18 +611,12 @@ footer {
 
 .hidden {
   display: none;
-  position: absolute;
-  max-width: 360px;
-  max-height: 450px;
-  z-index: 1;
-  top: 0;
-  left: 20px;
+  max-width: 845px;
+  max-height: 530px;
+  padding: 30px 75px 30px 30px;
+  border-radius: 3px;
 }
 
-.hidden .main-form {
-  margin-top: 40px;
-  margin-bottom: 0; 
-}
 #m-b3 {
   position: relative;
   top: 77px;
@@ -734,4 +728,79 @@ footer {
   color: rgb(51, 51, 51);
   line-height: 1.2;
   padding-left: 30px;
+}
+
+
+.art-txt, .txt-name, .art-main {
+  display: flex;
+  justify-content: space-between;
+}
+.zapros {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.art-main-img {
+  width: 100%;
+  max-width: 330px;
+  height: auto;
+  max-height: 330px;
+}
+
+.hidden h5 {
+  font-size: 18px;
+  font-family: "ProximaNova-Semibold";
+  color: rgb(51, 51, 51);
+  text-align: left;
+}
+.txt-name p{
+  margin-bottom: 10px;
+}
+.wrap-txt-info {
+  margin-left: 30px;
+}
+
+.art-txt p{
+  font-size: 16px;
+  color: rgb(51, 51, 51);
+}
+.art-txt p:nth-child(2) {
+  position: relative;
+  right: 5px;
+}
+.art-main {
+  margin-top: 15px;
+}
+.txt-colors {
+  background-color: rgb(51, 51, 51);
+  text-align: center;
+  margin: 10px 0 20px;
+}
+.txt-colors p {
+  line-height: 40px;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+}
+
+.zapros p {
+  font-size: 16px;
+  font-family: 'ProximaNova-Semibold';
+  color: rgb(51, 51, 51);
+}
+
+.zs-btn {
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  background-image: -webkit-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  background-image: -ms-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  color: #ffffff;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  display: block;
+  width: 210px;
+  line-height: 50px;
+  margin: 0;
+  border: none;
 }
