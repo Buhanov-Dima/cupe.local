@@ -408,7 +408,7 @@ footer {
 .ct-form.girl-2::before {
 	content: '';
 	position: absolute;
-	left: 30px;
+	left: 10px;
 	background: url('/img/main/girl-2.png') no-repeat left;
 	background-size: contain;
 	width: 165px;
@@ -803,4 +803,37 @@ footer {
   line-height: 50px;
   margin: 0;
   border: none;
+}
+
+.wrap-statya::before {
+  content: '';
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  border: 3px solid #0073ba;
+  left: -53px;
+  top: 69px;
+}
+
+.wrap-statya::after {
+  content: '';
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #0073ba;
+  right: -144px;
+  bottom: -140px;
+  z-index: -1;
+}
+#mb-6 {
+  position: relative;
+}
+#mb-6::before {
+  content: '';
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  border: 3px solid #0073ba;
+  left: 364px;
+  top: 47px;
 }

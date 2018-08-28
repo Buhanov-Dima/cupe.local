@@ -183,7 +183,7 @@
 	</div>
 </section>
 
-<section>
+<section id="mb-5">
 	<div class="container">
 		<div class="row no-gutters">
 			<div class="col-xl-12">
@@ -211,11 +211,11 @@
 	</div>
 </section>
 
-<section>
+<section id="mb-6">
 	<div class="container">
 		<div class="row no-gutters">
 			<div class="col-xl-12">
-				<div class="ct-form girl-2">
+				<div class="ct-form girl-2 cube">
 					<h1>Бесплатная консультация дизайнера</h1>
 					<form action="" class="open-form">
 						<input type="text" name="" class="phone" placeholder="Ваш телефон:">
