@@ -87,16 +87,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
 				       		</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -134,16 +136,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -181,16 +185,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -228,16 +234,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -275,16 +283,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -322,16 +332,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -369,16 +381,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -416,16 +430,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>
@@ -463,16 +479,18 @@
 				       		<p>Артикул: 21 163</p>
 				       	</div>
 				       	<div data-selectable="true" class="art-main">
-				       		<div class="art-main-img">
-				       			<img src="/img/catalogy/art-1.jpg" alt="">
-				       		</div>
+				       		<div class="art-m-img">
+					       		<div class="art-main-img">
+					       			<img src="/img/catalogy/art-1.jpg" alt="">
+					       		</div>
+					       	</div>
 				       		<div class="wrap-txt-info">
 				       			<div class="txt-name">
 				       				<div class="txt-name1">
-				       					<p>Название .................................................</p>
-				       					<p>Размер ......................................................</p>
-				       					<p>Производитель ......................................</p>
-				       					<p>Ед. измерения ........................................</p>
+				       					<p>Название</p>
+				       					<p>Размер</p>
+				       					<p>Производитель</p>
+				       					<p>Ед. измерения</p>
 				       				</div>
 				       				<div class="txt-name2">
 				       					<p>Античная ручка</p>

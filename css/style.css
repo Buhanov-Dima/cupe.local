@@ -742,13 +742,6 @@ footer {
   margin-bottom: 30px;
 }
 
-.art-main-img {
-  width: 100%;
-  max-width: 330px;
-  height: auto;
-  max-height: 330px;
-}
-
 .hidden h5 {
   font-size: 18px;
   font-family: "ProximaNova-Semibold";
@@ -836,4 +829,22 @@ footer {
   border: 3px solid #0073ba;
   left: 364px;
   top: 47px;
+}
+
+.art-m-img {
+  position: relative;
+  overflow: hidden;
+  min-width: 330px;
+  height: 330px;
+}
+
+.art-main-img {
+  position: absolute;
+  width: 2000px;
+  height: 2000px;
+  margin: -1000px 0 0 -1000px;
+  left: 50%;
+  top: 50%;
+  text-align: center;
+  line-height: 2000px;
 }
