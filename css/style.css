@@ -416,7 +416,7 @@ footer {
 	bottom: 0;
 }
 
-.girl-2 .ct-btn2 {
+.girl-2 .ct-btn2, .girl-3 .ct-btn2, .girl-4 .ct-btn2 {
   background-image: -moz-linear-gradient( 0deg, rgb(255,255,255) 0%, rgb(231,231,231) 100%);
   background-image: -webkit-linear-gradient( 0deg, rgb(255,255,255) 0%, rgb(231,231,231) 100%);
   background-image: -ms-linear-gradient( 0deg, rgb(255,255,255) 0%, rgb(231,231,231) 100%);
@@ -674,7 +674,7 @@ footer {
 .wrap-statya {
   display: flex;
   justify-content: space-between;
-
+  flex-wrap: wrap;
 }
 
 .wrap-news h3 {
@@ -711,6 +711,8 @@ footer {
   box-shadow: 0px 1px 30px 0px rgba(0, 20, 30, 0.15);
   margin: 0 10px;
   padding-bottom: 25px;
+  width: 48%;
+  overflow: hidden;
 }
 
 .stats p:nth-child(2){
@@ -847,4 +849,219 @@ footer {
   top: 50%;
   text-align: center;
   line-height: 2000px;
+}
+
+.wrap-statya.main-news::before, .wrap-statya.main-news::after {
+  display: none;
+}
+
+.main-news .stats {
+  margin-bottom: 30px;
+}
+.ct-form.girl-3::before {
+  content: '';
+  position: absolute;
+  left: -65px;
+  background: url('/img/main/girl-3.png') no-repeat left;
+  background-size: contain;
+  width: 228px;
+  height: 326px;
+  bottom: 0;
+}
+
+.ct-form.girl-4::before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  background: url('/img/main/girl-4.png') no-repeat left;
+  background-size: contain;
+  width: 255px;
+  height: 314px;
+  bottom: 0;
+}
+
+
+.wrap-timer {
+  background: url('/img/bg/bg-5.jpg') no-repeat;
+  background-size: cover;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.wrap-timer {text-align: center; padding: 80px 0 90px;}
+.wrap-timer h1{
+  font-size: 36px;
+  font-family: "ProximaNova-Bold";
+  color: rgb(255, 255, 255);
+  margin-top: 20px;
+}
+.wrap-timer a {
+  margin: 30px auto 0;
+}
+
+/* jQuery Countdown styles 2.0.0. */
+.is-countdown {
+  
+}
+.countdown-rtl {
+  direction: rtl;
+}
+.countdown-holding span {
+  color: #888;
+}
+.countdown-row {
+  margin: auto;
+  width: 100%;
+  max-width: 300px;
+  padding: 0px 2px;
+  text-align: center;
+  display: flex;
+}
+.countdown-show1 .countdown-section {
+  width: 98%;
+}
+.countdown-show2 .countdown-section {
+  width: 48%;
+}
+.countdown-show3 .countdown-section {
+  width: 32.5%;
+}
+.countdown-show4 .countdown-section {
+  width: 24.5%;
+}
+.countdown-show5 .countdown-section {
+  width: 19.5%;
+}
+.countdown-show6 .countdown-section {
+  width: 16.25%;
+}
+.countdown-show7 .countdown-section {
+  width: 14%;
+}
+.countdown-section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  width: 32.5% !important;
+}
+.countdown-amount {
+    font-size: 18px;
+    border-radius: 6px;
+    color: rgb(51, 51, 51);
+    font-family: "GothamPro";
+    font-weight: 700;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0.5px 0.866px 1px 0px rgba(0, 0, 0, 0.25),inset 0.5px 0.866px 0px 0px rgba(255, 255, 255, 0.2);
+    display: block;
+    width: 46px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.countdown-period {
+    display: block;
+  font-size: 6.507px;
+    font-family: "GothamPro";
+    color: rgb(153, 153, 153);
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 5px;
+}
+.countdown-descr {
+  display: block;
+  width: 100%;
+}
+
+
+
+
+#discount {
+  padding-top: 80px;
+  background: url('/img/bg/bg-7.png');
+  background-size: 
+  background-repeat: repeat;
+}
+
+.skidka {
+  padding: 75px 0 82px;
+  background: url('/img/bg/bg-6.jpg') no-repeat center;
+  background-size: cover;
+  border-radius: 3px;
+  overflow: hidden;
+  margin: 30px 0;
+  text-align: center;
+  max-height: 300px;
+}
+
+.skidka h1 {
+  font-size: 36px;
+  font-family: "ProximaNova-Bold";
+  color: rgb(255, 255, 255);
+  margin-top: 20px; 
+}
+.skidka a {
+  margin: 20px auto 0;
+}
+
+.contacts h3 {
+  font-size: 30px;
+  font-family: "ProximaNova-Bold";
+  color: rgb(51, 51, 51);
+  text-align: left;
+  margin-bottom: 15px;
+}
+.c-ico p, .social-net p {
+  font-size: 16px;
+  font-family: "ProximaNova";
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  padding-left: 30px;
+  line-height: 30px;
+}
+.social-net p {
+  padding-left: 0;
+  margin-bottom: 10px;
+}
+.contacts {
+  background-color: #ffffff;
+  padding: 90px 69px 0 67px;
+  min-height: 500px;
+}
+
+.maps {
+  position: absolute;
+  left: 0;
+  top: 90px;
+  width: 100%;
+}
+.c-ico {
+  margin-bottom: 15px;  
+}
+.social-net {
+  margin-top: 35px;
+}
+
+.c-ico.bg-1 {
+  background: url('/img/icons/ico-9.png') no-repeat left center;
+}
+.c-ico.bg-2 {
+  background: url('/img/icons/ico-10.png') no-repeat left center;
+}
+.c-ico.bg-3 {
+  background: url('/img/icons/ico-11.png') no-repeat left center;
+}
+.c-ico.bg-4 {
+  background: url('/img/icons/ico-12.png') no-repeat left center;
+}
+
+.c-ico span{
+  font-size: 18px;
+  font-family: 'ProximaNova-Semibold';
+}
+
+.soc-ico a{
+  margin-right: 20px;
 }
