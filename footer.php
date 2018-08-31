@@ -43,6 +43,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 	<script src="/js/jquery.plugin.js"></script>
 	<script src="/js/jquery.countdown.js"></script>
+	<script src="/js/owl.carousel.min.js"></script>
 	<script src="/js/main.js"></script>
 </body>
 </html>

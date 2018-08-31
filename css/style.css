@@ -1065,3 +1065,153 @@ footer {
 .soc-ico a{
   margin-right: 20px;
 }
+
+.bg-8 {
+  background: url('/img/bg/bg-8.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.product {
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+#product {
+  margin-top: 80px;
+}
+.production p{
+  font-size: 16px;
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+.slide__gap img{
+  width: 450px;
+  height: auto;
+  max-height: 252px;
+  overflow: hidden;
+}
+
+.slide__item {
+  list-style: none;
+  width: 216px;
+  height: 120px;
+  overflow: hidden;
+}
+
+.slide__item img {
+  width: 100%;
+}
+
+.detail-slaider {
+  margin-top: 30px;
+}
+.wrap-big-slaid-info {overflow: hidden;}
+
+.graphic {
+  background-color: #0468ba;
+  border-radius: 3px;
+  padding: 40px 85px;
+  position: relative;
+}
+
+.setka {
+  background: url('/img/main/setka.png') no-repeat center;
+  background-size: contain;
+  width: 945px;
+  height: 320px;
+  margin: auto;
+}
+
+.graph-h {
+  font-size: 30px;
+  font-family: "ProximaNova-Bold";
+  color: rgb(51, 51, 51);
+  text-align: center;
+  margin: 50px 0 30px;
+}
+
+.setka p{
+  font-size: 13px;
+  color: rgb(255, 255, 255);
+}
+
+
+.graph-down p{
+  font-size: 13px;
+  color: rgb(255, 255, 255); 
+}
+#gp-p1 {
+  position: absolute;
+  top: 102px;
+  left: 38px;
+}
+
+#gp-p2 {
+  position: absolute;
+  top: 193px;
+  left: 38px;
+}
+
+#gp-p3 {
+  position: absolute;
+  top: 287px;
+  left: 38px;
+}
+
+.graph-down {
+  display: flex;
+  justify-content: space-around;
+  max-width: 687px;
+  margin: 10px auto 0;
+}
+.graph-down-txt p{
+  font-size: 16px;
+  font-family: "ProximaNova";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.graph-line i:first-child {
+    width: 126px;
+    background: #ffffff;
+    height: 3px;
+    display: block;
+    position: absolute;
+    transform: rotate(135deg);
+    border-radius: 10px;
+    top: 312px;
+    left: 122px;
+}
+.graph-line i:nth-child(2) {
+    width: 335px;
+    background: #ffffff;
+    height: 3px;
+    display: block;
+    position: absolute;
+    transform: rotate(168deg);
+    border-radius: 10px;
+    top: 232px;
+    left: 227px;
+}
+
+.graph-line i:nth-child(3) {
+    width: 348px;
+    background: #ffffff;
+    height: 3px;
+    display: block;
+    position: absolute;
+    transform: rotate(161deg);
+    border-radius: 10px;
+    top: 141px;
+    left: 548px;
+}
+
+#gl-p1 {
+  position: absolute;
+  top: 50px;
+  background: #ffffff;
+  padding: 10px;
+}
