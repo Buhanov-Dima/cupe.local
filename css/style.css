@@ -28,7 +28,7 @@ p, h1, h2, h3, h4, h5, h6 { margin: 0; font-family: 'ProximaNova';font-weight: n
 	font-family: 'GothamPro';
 	src: url('/fonts/GothamPro.ttf');
 }
-
+.mg-t-50 {margin-top: 50px;}
 .mg-t-75 {margin-top: 75px;}
 
 .bg-333 {
@@ -373,7 +373,7 @@ footer {
 	margin-top: 80px;
 }
 
-.girl-2 .ct-btn2, .girl-3 .ct-btn2, .girl-4 .ct-btn2 {
+.girl-2 .ct-btn2, .girl-3 .ct-btn2, .girl-4 .ct-btn2, .man-2 .ct-btn2{
   background-image: -moz-linear-gradient( 0deg, rgb(255,255,255) 0%, rgb(231,231,231) 100%);
   background-image: -webkit-linear-gradient( 0deg, rgb(255,255,255) 0%, rgb(231,231,231) 100%);
   background-image: -ms-linear-gradient( 0deg, rgb(255,255,255) 0%, rgb(231,231,231) 100%);
@@ -458,14 +458,7 @@ footer {
   text-align: center;
   margin-bottom: 30px;
 }
-.form-skidka h3 {
-  font-size: 18px;
-  font-family: "GothamPro";
-  color: rgb(51, 51, 51);
-  line-height: 1.2;
-  text-align: center;
-  margin: 20px 0;
-}
+
 
 .main-form span, .form-skidka span {
 	border-bottom: 2px solid #008bd2;
@@ -1104,6 +1097,28 @@ footer {
     border-radius: 10px;
     top: 312px;
     left: 122px;
+    z-index: 3;
+}
+
+.graph-line i:first-child::before {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  left: -8px;
+  top: -5px;
+}
+.graph-line i:first-child::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #ff6159;
+  left: -5px;
+  top: -2px;
 }
 .graph-line i:nth-child(2) {
     width: 335px;
@@ -1115,8 +1130,28 @@ footer {
     border-radius: 10px;
     top: 232px;
     left: 227px;
+    z-index: 2;
 }
-
+.graph-line i:nth-child(2)::before {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  left: -6px;
+  top: -4px;
+}
+.graph-line i:nth-child(2)::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #ff6159;
+  left: -3px;
+  top: -1px;
+}
 .graph-line i:nth-child(3) {
     width: 348px;
     background: #ffffff;
@@ -1127,6 +1162,39 @@ footer {
     border-radius: 10px;
     top: 141px;
     left: 548px;
+    z-index: 1;
+}
+.graph-line i:nth-child(3)::before {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ff6159;
+  left: -6px;
+  top: -4px;
+}
+.graph-line i:nth-child(3)::after {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  left: -4px;
+  top: -2px;
+}
+
+.graph-line i:nth-child(4) {
+    width: 104px;
+    background: #ffffff;
+    height: 3px;
+    display: block;
+    position: absolute;
+    transform: rotate(155deg);
+    border-radius: 10px;
+    top: 63px;
+    right: 128px;
 }
 
 #gl-p1 {
@@ -1196,7 +1264,7 @@ footer {
 
 
 
-.ct-form, .girl-2, .man, .girl-3, .girl-4 {
+.ct-form, .girl-2, .man, .girl-3, .girl-4, .man-2 {
   border-radius: 3px;
   background-image: -moz-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
   background-image: -webkit-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
@@ -1207,14 +1275,14 @@ footer {
   margin-top: 60px;
 }
 
-.ct-form h1, .ct-form h1, .girl-2 h1, .man h1, .girl-3 h1, .girl-4 h1{
+.ct-form h1, .ct-form h1, .girl-2 h1, .man h1, .girl-3 h1, .girl-4 h1, .man-2 h1{
   font-size: 30px;
   font-family: "ProximaNova-Bold";
   color: rgb(255, 255, 255);
   margin-bottom: 45px;
 }
 
-.ct-form p, .girl-2 p, .man p, .girl-3 p, .girl-4 p{
+.ct-form p, .girl-2 p, .man p, .girl-3 p, .girl-4 p, .man-2 p{
   font-size: 12px;
   font-family: "GothamPro";
   color: rgb(234, 247, 255);  
@@ -1241,6 +1309,17 @@ footer {
   background-size: contain;
   width: 165px;
   height: 314px;
+  bottom: 0;
+}
+
+.man-2::before {
+  content: '';
+  position: absolute;
+  left: 22px;
+  background: url('/img/main/man-2.png') no-repeat left;
+  background-size: contain;
+  width: 245px;
+  height: 329px;
   bottom: 0;
 }
 
@@ -1342,4 +1421,58 @@ footer {
   padding: 10px 35px 0;
   margin-top: 0;
   margin-bottom: 15px;
+}
+
+.form-skidka h3 {
+  font-size: 18px;
+  font-family: "GothamPro";
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.sotrudnik {
+  position: relative;
+  overflow: hidden;
+  max-width: 260px;
+  width: 100%;
+  height: 260px;
+  margin: auto;
+}
+
+.team h5 {
+  font-size: 20px;
+  font-family: "ProximaNova-Semibold";
+  margin-top: 15px;
+}
+
+.team p {
+  font-size: 16px;
+  line-height: 1.2;
+  margin-top: 10px;
+  padding: 0 55px;
+}
+.team {
+  text-align: center;
+}
+
+.graph-txt p{
+  font-size: 16px;
+  line-height: 1.2;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.wrap-reviews {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+.review {
+  width: 48%;
+  border-radius: 3px;
+  overflow: hidden;
 }

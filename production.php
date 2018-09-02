@@ -70,10 +70,11 @@
 	</div>
 </section>
 
+
 <div class="container">
 	<div class="row">
 		<div class="col-xl-12">
-			<h1 class="graph-h">Количество довольных клиентов</h1>
+			<h1 class="graph-h text-center">Количество довольных клиентов</h1>
 			<div class="graphic">
 				<div class="setka">
 					<p id="gp-p1">16 000</p>
@@ -103,7 +104,59 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xl-12">
-			<div class="girl-2">
+			<div class="wrap-team">
+				<h1 class="graph-h text-left">Наша задача</h1>
+				<div class="graph-txt">
+					<p>Определить потребность каждого клиента и разработать для него уникальный продукт. Наша клиентоориентированность и любовь к своему делу позволяет компании NineLine быть лидером рынка шкафов купе в Московском регионе и ежегодно радовать десятки тысяч клиентов.</p>
+				</div>
+				<h1 class="graph-h text-left">Замерщики</h1>
+				<div class="graph-txt">
+					<p>Замерщики компании NineLine всегда приезжают вовремя и могут ответить на любой вопрос заказчика, помочь подобрать самый оптимальный вариант для любого типа помоещения в зависисмости от метражности, дизайна интерьера, пожеланий клиента, его бюджета и других критерий.</p>
+					<p>Наши замерщики каждый год сдают внутреннюю аттестацию и проходят тренинги и семинары, которые помогают лучше разбираться в современных тенденциях в сфере дизайна.</p>
+				</div>
+				<div class="d-flex mg-t-50">
+					<div class="team">
+						<div class="sotrudnik">
+							<div class="art-main-img">
+								<img src="/img/team/1.jpg" alt="">
+							</div>
+						</div>
+						<h5>Иванов Сергей</h5>
+						<p>Опыт работы, информация о специалисте, информация о специалиста, информация о специалисте,...</p>
+						<p><b>выполнил 30 проектов</b></p>
+					</div>
+
+					<div class="team">
+						<div class="sotrudnik">
+							<div class="art-main-img">
+								<img src="/img/team/2.jpg" alt="">
+							</div>
+						</div>
+						<h5>Иванов Сергей</h5>
+						<p>Опыт работы, информация о специалисте, информация о специалиста, информация о специалисте,...</p>
+						<p><b>выполнил 30 проектов</b></p>
+					</div>
+
+					<div class="team">
+						<div class="sotrudnik">
+							<div class="art-main-img">
+								<img src="/img/team/3.jpg" alt="">
+							</div>
+						</div>
+						<h5>Иванов Сергей</h5>
+						<p>Опыт работы, информация о специалисте, информация о специалиста, информация о специалисте,...</p>
+						<p><b>выполнил 30 проектов</b></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-xl-12">
+			<div class="man-2">
 				<h1>Бесплатная консультация дизайнера</h1>
 				<form action="" class="open-form">
 					<input type="text" name="" class="phone" placeholder="Ваш телефон:">
@@ -115,4 +168,21 @@
 		</div>
 	</div>
 </div>
+
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-12">
+				<div class="wrap-reviews">
+					<div class="review">
+						<iframe width="100%" height="309" src="https://www.youtube.com/embed/n7GlLxV_Igk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+					<div class="review">
+						<iframe width="100%" height="309" src="https://www.youtube.com/embed/n7GlLxV_Igk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 <?php include ('footer.php'); ?>
