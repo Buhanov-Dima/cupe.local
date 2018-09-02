@@ -137,7 +137,7 @@ p, h1, h2, h3, h4, h5, h6 { margin: 0; font-family: 'ProximaNova';font-weight: n
   height: 202px;
 }
 
-.wrap-ctm .cm-main img{
+.cm-main-1 img{
   width: 100%;
   max-width: 202px;
   height: 250px;
@@ -1130,13 +1130,62 @@ footer {
 }
 
 #gl-p1 {
-  position: absolute;
-  top: 50px;
   background: #ffffff;
-  padding: 10px;
+  color: #333333;
+  position: absolute;
+  top: 215px;
+  left: 194px;
+  padding: 0 20px;
+  line-height: 30px;
+}
+#gl-p1::after {
+  content: ''; 
+  position: absolute;
+  left: 25px;
+  bottom: -20px;
+  border: 12px solid transparent;
+  border-top: 12px solid #ffffff;
 }
 
+#gl-p2 {
+  background: #ffffff;
+  color: #333333;
+  position: absolute;
+  top: 143px;
+  left: 521px;
+  padding: 0 20px;
+  line-height: 30px;
+}
+#gl-p2::after {
+  content: ''; 
+  position: absolute;
+  left: 25px;
+  bottom: -20px;
+  border: 12px solid transparent;
+  border-top: 12px solid #ffffff;
+}
 
+#gl-p3 {
+  background: #ffffff;
+  color: #333333;
+  position: absolute;
+  top: 36px;
+  right: 187px;
+  padding: 0 20px;
+  line-height: 30px;
+}
+#gl-p3::after {
+  content: ''; 
+  position: absolute;
+  left: 25px;
+  bottom: -20px;
+  border: 12px solid transparent;
+  border-top: 12px solid #ffffff;
+}
+
+.graph-line p{
+  color: #333333;
+}
 
 
 

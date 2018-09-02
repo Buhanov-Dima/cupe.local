@@ -73,7 +73,7 @@
 			<div class="catalogy">
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -122,7 +122,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -171,7 +171,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -220,7 +220,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -269,7 +269,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -318,7 +318,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -367,7 +367,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -416,7 +416,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
@@ -465,7 +465,7 @@
 
 				<div class="cat-items">
 					<div class="wrap-ctm">
-						<div class="cm-main">
+						<div class="cm-main-1">
 							<img src="/img/catalogy/dub.jpg" alt="">
 						</div>
 					</div>
