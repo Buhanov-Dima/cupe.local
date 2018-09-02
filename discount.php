@@ -12,23 +12,44 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="wrap-timer">
-					<div class="timer">
-						<div id="defaultCountdown"></div>
+					<div class="timer-img">
+						<div class="art-main-img">
+							<img src="/img/bg/bg-5.jpg" alt="">
+						</div>
 					</div>
-					<h1>СКИДКИ ДО 30%  НА ШКАФЫ КУПЕ</h1>
-					<a href="#" class="btn-rmore">Узнать подробнее</a>
+					<div class="wrapper-timer">
+						<div class="timer">
+							<div id="defaultCountdown"></div>
+						</div>
+						<h1>СКИДКИ ДО 30%  НА ШКАФЫ КУПЕ</h1>
+						<a href="#" class="btn-rmore">Узнать подробнее</a>
+					</div>
 				</div>
 			</div>
 			<div class="col-xl-6">
 				<div class="skidka">
-					<h1>НОВОГОДНЯЯ АКЦИЯ</h1>
-					<a href="#" class="btn-rmore">Узнать подробнее</a>
+					<div class="skidka-img">
+						<div class="art-main-img">
+							<img src="/img/bg/bg-6.jpg" alt="">
+						</div>
+					</div>
+					<div class="wrapper-skidka">
+						<h1>НОВОГОДНЯЯ АКЦИЯ</h1>
+						<a href="#" class="btn-rmore">Узнать подробнее</a>
+					</div>
 				</div>
 			</div>
 			<div class="col-xl-6">
 				<div class="skidka">
-					<h1>НОВОГОДНЯЯ АКЦИЯ</h1>
-					<a href="#" class="btn-rmore">Узнать подробнее</a>
+					<div class="skidka-img">
+						<div class="art-main-img">
+							<img src="/img/bg/bg-6.jpg" alt="">
+						</div>
+					</div>
+					<div class="wrapper-skidka">
+						<h1>НОВОГОДНЯЯ АКЦИЯ</h1>
+						<a href="#" class="btn-rmore">Узнать подробнее</a>
+					</div>
 				</div>
 			</div>
 		</div>
