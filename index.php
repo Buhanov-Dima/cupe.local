@@ -124,7 +124,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
-				<div class="ct-form man">
+				<div class="man">
 					<h1>Бесплатная консультация дизайнера</h1>
 					<form action="" class="open-form">
 						<input type="text" name="" class="phone" placeholder="Ваш телефон:">
@@ -215,7 +215,7 @@
 	<div class="container">
 		<div class="row no-gutters">
 			<div class="col-xl-12">
-				<div class="ct-form girl-2 cube">
+				<div class="girl-2 cube">
 					<h1>Бесплатная консультация дизайнера</h1>
 					<form action="" class="open-form">
 						<input type="text" name="" class="phone" placeholder="Ваш телефон:">

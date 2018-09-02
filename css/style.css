@@ -192,33 +192,7 @@ p, h1, h2, h3, h4, h5, h6 { margin: 0; font-family: 'ProximaNova';font-weight: n
   color: rgb(15, 93, 206);
 }
 
-.ct-form {
-  border-radius: 3px;
-  background-image: -moz-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
-  background-image: -webkit-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
-  background-image: -ms-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
-  text-align: center;
-  min-height: 285px;
-  padding: 45px;
-  margin-top: 60px;
-}
 
-.ct-form h1{
-  font-size: 30px;
-  font-family: "ProximaNova-Bold";
-  color: rgb(255, 255, 255);
-  margin-bottom: 45px;
-}
-.ct-form::before {
-	content: '';
-	position: absolute;
-	left: 30px;
-	background: url('/img/main/girl.png') no-repeat left;
-	background-size: contain;
-	width: 210px;
-	height: 350px;
-	bottom: 0;
-}
 .open-form {
 	text-align: center;
 	display: flex;
@@ -239,13 +213,6 @@ p, h1, h2, h3, h4, h5, h6 { margin: 0; font-family: 'ProximaNova';font-weight: n
   font-family: "GothamPro";
   color: rgb(51, 51, 51);
   padding-left: 20px;
-}
-.ct-form p{
-  font-size: 12px;
-  font-family: "GothamPro";
-  color: rgb(234, 247, 255);  
-  text-align: center;
-  padding-top: 20px;
 }
 
 .ct-btn2 {
@@ -404,16 +371,6 @@ footer {
 }
 .girl-2 {
 	margin-top: 80px;
-}
-.ct-form.girl-2::before {
-	content: '';
-	position: absolute;
-	left: 10px;
-	background: url('/img/main/girl-2.png') no-repeat left;
-	background-size: contain;
-	width: 165px;
-	height: 314px;
-	bottom: 0;
 }
 
 .girl-2 .ct-btn2, .girl-3 .ct-btn2, .girl-4 .ct-btn2 {
@@ -586,28 +543,9 @@ footer {
 #m-b1 .cat-item {
 	margin-bottom: 40px;
 }
-.ct-form.man::before {
-	content: '';
-	position: absolute;
-	right: -85px;
-	left: auto;
-	background: url('/img/main/man.png') no-repeat right;
-	background-size: contain;
-	width: 280px;
-	height: 258px;
-	bottom: 0;
-}
 
-.ct-form.man::after {
-	content: '';
-	position: absolute;
-	width: 130px;
-	height: 130px;
-	border: 3px solid #008bd0;
-	right: -25px;
-	top: 25px;
-	z-index: -1;
-}
+
+
 
 .hidden {
   display: none;
@@ -858,27 +796,9 @@ footer {
 .main-news .stats {
   margin-bottom: 30px;
 }
-.ct-form.girl-3::before {
-  content: '';
-  position: absolute;
-  left: -65px;
-  background: url('/img/main/girl-3.png') no-repeat left;
-  background-size: contain;
-  width: 228px;
-  height: 326px;
-  bottom: 0;
-}
 
-.ct-form.girl-4::before {
-  content: '';
-  position: absolute;
-  left: 10px;
-  background: url('/img/main/girl-4.png') no-repeat left;
-  background-size: contain;
-  width: 255px;
-  height: 314px;
-  bottom: 0;
-}
+
+
 
 
 .wrap-timer {
@@ -1214,4 +1134,108 @@ footer {
   top: 50px;
   background: #ffffff;
   padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ct-form, .girl-2, .man, .girl-3, .girl-4 {
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  background-image: -webkit-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  background-image: -ms-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  text-align: center;
+  min-height: 285px;
+  padding: 45px;
+  margin-top: 60px;
+}
+
+.ct-form h1, .ct-form h1, .girl-2 h1, .man h1, .girl-3 h1, .girl-4 h1{
+  font-size: 30px;
+  font-family: "ProximaNova-Bold";
+  color: rgb(255, 255, 255);
+  margin-bottom: 45px;
+}
+
+.ct-form p, .girl-2 p, .man p, .girl-3 p, .girl-4 p{
+  font-size: 12px;
+  font-family: "GothamPro";
+  color: rgb(234, 247, 255);  
+  text-align: center;
+  padding-top: 20px;
+}
+
+.ct-form::before {
+  content: '';
+  position: absolute;
+  left: 30px;
+  background: url('/img/main/girl.png') no-repeat left;
+  background-size: contain;
+  width: 210px;
+  height: 350px;
+  bottom: 0;
+}
+
+.girl-2::before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  background: url('/img/main/girl-2.png') no-repeat left;
+  background-size: contain;
+  width: 165px;
+  height: 314px;
+  bottom: 0;
+}
+
+.man::before {
+  content: '';
+  position: absolute;
+  right: -85px;
+  left: auto;
+  background: url('/img/main/man.png') no-repeat right;
+  background-size: contain;
+  width: 280px;
+  height: 258px;
+  bottom: 0;
+}
+
+.man::after {
+  content: '';
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  border: 3px solid #008bd0;
+  right: -25px;
+  top: 25px;
+  z-index: -1;
+}
+
+.girl-3::before {
+  content: '';
+  position: absolute;
+  left: -65px;
+  background: url('/img/main/girl-3.png') no-repeat left;
+  background-size: contain;
+  width: 228px;
+  height: 326px;
+  bottom: 0;
+}
+
+.girl-4::before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  background: url('/img/main/girl-4.png') no-repeat left;
+  background-size: contain;
+  width: 255px;
+  height: 314px;
+  bottom: 0;
 }

@@ -44,7 +44,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xl-12">
-			<div class="ct-form girl-2">
+			<div class="girl-2">
 				<h1>Бесплатная консультация дизайнера</h1>
 				<form action="" class="open-form">
 					<input type="text" name="" class="phone" placeholder="Ваш телефон:">
