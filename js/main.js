@@ -35,6 +35,66 @@ $(document).ready(function(){
         }
 	});
 
+    $(".company-slaider").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:3
+            }
+        }
+    });
+
+    $(".slaider-reviews").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            1000:{
+                items:1
+            }
+        }
+    });
+
+    $(".slaider-cupe").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            1000:{
+                items:1
+            }
+        }
+    });
+
+    $(".slaider-cupe-2").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:2
+            }
+        }
+    });
+
 
     $('.slide__link').on('click', function(e){
         e.preventDefault();
