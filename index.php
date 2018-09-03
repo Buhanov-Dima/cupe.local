@@ -50,38 +50,44 @@
 				<h1 class="stan-h">Виды шкафов</h1>
 			</div>
 			<div class="col-xl-4">
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-4.jpg" alt=""></div>
-					<div class="cm-txt"><p>Встроенные</p></div>
-				</div>
+				<div class="wrapper-cat-item">
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-4.jpg" alt=""></div>
+						<div class="cm-txt"><p>Встроенные</p></div>
+					</div>
 
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-7.jpg" alt=""></div>
-					<div class="cm-txt"><p>Угловые</p></div>
-				</div>
-			</div>
-
-			<div class="col-xl-4">
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-5.jpg" alt=""></div>
-					<div class="cm-txt"><p>Корпусные</p></div>
-				</div>
-
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-8.jpg" alt=""></div>
-					<div class="cm-txt"><p>С пескоструйным дизайном<br>или орнаментом</p></div>
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-7.jpg" alt=""></div>
+						<div class="cm-txt"><p>Угловые</p></div>
+					</div>
 				</div>
 			</div>
 
 			<div class="col-xl-4">
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-6.jpg" alt=""></div>
-					<div class="cm-txt"><p>Гардеробные</p></div>
-				</div>
+				<div class="wrapper-cat-item">
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-5.jpg" alt=""></div>
+						<div class="cm-txt"><p>Корпусные</p></div>
+					</div>
 
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-9.jpg" alt=""></div>
-					<div class="cm-txt"><p>С фотопечатью</p></div>
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-8.jpg" alt=""></div>
+						<div class="cm-txt"><p>С пескоструйным дизайном<br>или орнаментом</p></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xl-4">
+				<div class="wrapper-cat-item">
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-6.jpg" alt=""></div>
+						<div class="cm-txt"><p>Гардеробные</p></div>
+					</div>
+
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-9.jpg" alt=""></div>
+						<div class="cm-txt"><p>С фотопечатью</p></div>
+					</div>
 				</div>
 			</div>
 
@@ -89,24 +95,22 @@
 				<h1 class="stan-h">Каталог</h1>
 			</div>
 
-			<div class="col-xl-4">
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-1.jpg" alt=""></div>
-					<div class="cm-txt"><p>Материалы и цвета</p></div>
-				</div>
-			</div>
+			<div class="col-xl-12">
+				<div class="wrapper-cat-item">
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-1.jpg" alt=""></div>
+						<div class="cm-txt"><p>Материалы и цвета</p></div>
+					</div>
 
-			<div class="col-xl-4">
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-2.jpg" alt=""></div>
-					<div class="cm-txt"><p>Системы дверей</p></div>
-				</div>
-			</div>
-
-			<div class="col-xl-4">
-				<div class="cat-item">
-					<div class="cm-main"><img src="/img/catalogy/item-3.jpg" alt=""></div>
-					<div class="cm-txt"><p>Фурнитура и конструктивные<br>элементы</p></div>
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-2.jpg" alt=""></div>
+						<div class="cm-txt"><p>Системы дверей</p></div>
+					</div>
+				
+					<div class="cat-item">
+						<div class="cm-main"><img src="/img/catalogy/item-3.jpg" alt=""></div>
+						<div class="cm-txt"><p>Фурнитура и конструктивные<br>элементы</p></div>
+					</div>
 				</div>
 			</div>
 		</div>

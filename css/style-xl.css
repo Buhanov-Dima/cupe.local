@@ -1,0 +1,6 @@
+.hidden-xl {display: none;} .navbar {display: block; background: #333333!important;} .navbar-toggler {position: absolute; right: 20px; top: 15px;}
+.catalogy {justify-content: space-around;} .ct-form h1, .ct-form h1, .girl-2 h1, .man h1, .girl-3 h1, .girl-4 h1, .man-2 h1{font-size: 24px;}
+.open-form {flex-direction: column; align-items: center;} .phone, .name {margin-bottom: 15px;} .ct-form p, .girl-2 p, .man p, .girl-3 p, .girl-4 p, .man-2 p {padding: 25px 160px 0;}
+.wrap-foo {flex-wrap: wrap; justify-content: space-around;} .f-menu {width: 25%;} .social {margin-top: 40px;} .bg-cat-main {min-height: 300px;}
+.girl-4::before {height: 260px; width: 215px;} .main-leftbar h1 {text-align: center; margin-top: 25px;} .main-leftbar .btn-rmore {margin: 0 auto 25px;}
+.zayavka {width: 80%; justify-content: flex-start;}
