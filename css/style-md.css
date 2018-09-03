@@ -1,2 +1,3 @@
 .ct-form::before, .girl-2::before, .man::before, .girl-3::before, .girl-4::before, .man-2::before {display: none;} .ct-form p, .girl-2 p, .man p, .girl-3 p, .girl-4 p, .man-2 p {padding: 25px 0 0;}
-.wrap-timer h1 {font-size: 26px;} .wrapper-timer, .wrapper-skidka {max-width: 510px;} .zayavka {width: 100%;} .stats {width: 90%;}
+.wrap-timer h1 {font-size: 26px;} .wrapper-timer, .wrapper-skidka {max-width: 510px;} .zayavka {width: 100%;} .stats {width: 90%;} .wrap-statya {justify-content: center;}
+.statya {max-width: 530px;} 

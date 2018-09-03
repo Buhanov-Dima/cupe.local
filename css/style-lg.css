@@ -1,3 +1,6 @@
 .catalogy-main {justify-content: space-around;} .cat-item {margin-bottom: 30px;} .contacts {max-width: 450px;} .maps {position: relative; top: 0;} .main-form {max-width: 350px; margin: 0 auto 25px;}
 #m-b1 .cat-item {margin: 0 auto 30px;} .man::after {right: 0; top: 45px;} .wrap-statya::after {right: -20px; bottom: -236px;} .man::before {right: -10px;}
-.stats {width: 46%;}
+.stats {width: 46%;} .slideShow {max-width: 450px; margin: auto;} .graphic {padding: 40px 40px 40px 60px;} .setka {width: 830px;} #gp-p1 {top: 108px; left: 14px;} #gp-p2 {top: 189px; left: 14px;}
+#gp-p3 {top: 272px; left: 14px;} .graph-line i:first-child {width: 111px; left: 88px; top: 299px;} .graph-line i:nth-child(2) {top: 228px; width: 299px; left: 179px;}
+.graph-line i:nth-child(3) {width: 267px; top: 148px; left: 466px; transform: rotate(158deg);} .graph-line i:nth-child(4) {width: 104px; right: 119px; top: 81px;}
+#gl-p1 {top: 205px; left: 147px;} #gl-p2 {left: 438px; top: 143px;} #gl-p3 {top: 44px; right: 168px;}

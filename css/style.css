@@ -1452,10 +1452,11 @@ footer {
   font-size: 16px;
   line-height: 1.2;
   margin-top: 10px;
-  padding: 0 55px;
+  padding: 0 30px;
 }
 .team {
   text-align: center;
+  max-width: 300px;
 }
 
 .graph-txt p{
@@ -1482,6 +1483,104 @@ footer {
 .hidden-xl {display: block;}
 
 .wrapper-cat-item {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.d-flex-wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.article-img {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  max-width: 540px;
+  height: 310px;
+  border-radius: 3px;
+}
+
+.wrap-article-img {
+  display: flex;
+  justify-content: space-between; 
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.wrap-txt-img {
+ display: flex;
+ justify-content: space-between;
+ margin-top: 30px;
+}
+.wrap-txt-img p {
+  width: 60%;
+}
+.wrap-article p{
+  
+}
+.sim-img {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  max-width: 165px;
+  height: 95px;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+
+.similar {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+
+.wrap-article h3{
+  font-size: 30px;
+  font-family: "ProximaNova-Bold";
+  color: rgb(51, 51, 51);
+  text-align: center;
+  margin-top: 50px;
+}
+.wrap-article p:nth-child(2) {
+  margin-top: 20px;
+}
+.wrap-article p:nth-child(5) {
+  margin-top: 20px;
+}
+.wrap-article p:nth-child(7) {
+  margin-top: 20px;
+}
+
+.similar-articles h3 {
+  font-size: 30px;
+  font-family: "ProximaNova-Bold";
+  text-align: center;
+  margin-top: 50px;
+}
+
+.art-name h5{
+  font-size: 18px;
+  font-family: 'ProximaNova-Semibold';
+  line-height: 1.2;
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+.art-name p{
+  font-size: 16px;
+  line-height: 1.1;
+  font-family: 'ProximaNova';
+}
+
+.similar-articles {
+  margin-bottom: 60px;
+}
+
+.wrap-similar {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;

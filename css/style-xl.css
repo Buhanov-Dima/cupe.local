@@ -3,4 +3,8 @@
 .open-form {flex-direction: column; align-items: center;} .phone, .name {margin-bottom: 15px;} .ct-form p, .girl-2 p, .man p, .girl-3 p, .girl-4 p, .man-2 p {padding: 25px 160px 0;}
 .wrap-foo {flex-wrap: wrap; justify-content: space-around;} .f-menu {width: 25%;} .social {margin-top: 40px;} .bg-cat-main {min-height: 300px;}
 .girl-4::before {height: 260px; width: 215px;} .main-leftbar h1 {text-align: center; margin-top: 25px;} .main-leftbar .btn-rmore {margin: 0 auto 25px;}
-.zayavka {width: 80%; justify-content: flex-start;}
+.zayavka {width: 80%; justify-content: flex-start;} .setka {width: 587px;} .graph-line i:first-child {width: 77px; left: 111px; top: 269px;} .graph-line i:nth-child(2) {top: 218px; width: 208px; left: 178px;}
+.graph-line i:nth-child(3) {width: 163px; top: 163px; left: 374px; transform: rotate(155deg);} .graph-line i:nth-child(4) {width: 62px; right: 99px; top: 114px;}
+#gl-p1 {top: 190px; left: 141px;} #gl-p2 {left: 347px; top: 147px;} #gl-p3 {top: 79px; right: 122px;} .d-flex-wrap {justify-content: space-around;}
+.team {margin-bottom: 30px;} .man-2::before {height: 266px;} .setka {max-height: 200px; height: 200px;}
+.setka {width: 407px;} #gp-p1 {top: 73px;}  #gp-p2 {top: 131px;} #gp-p3 {top: 188px;}

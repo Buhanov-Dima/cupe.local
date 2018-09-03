@@ -1,4 +1,5 @@
 .wrap-foo {align-items: center; justify-content: space-between;} .foo-logo {width: 100%; text-align: center; margin-bottom: 25px;} .f-menu {width: 50%; text-align: center;}
 .social {width: 100%; text-align: center; margin-top: 0;} .soc-icon a{margin: 0 10px; }.c-back {width: 100%; align-items: center; margin-top: 10px;} .cat-item p {font-size: 16px;}
-.contacts {padding: 25px 0; min-height: auto;} .wrapper-timer, .wrapper-skidka {max-width: 330px;} #mb-6::before, .wrap-statya::after, .wrap-statya::before {display: none;} .stats {width: 100%;}
-.stan-h {font-size: 24px;}
+.contacts {padding: 25px 0; min-height: auto;} .wrapper-timer, .wrapper-skidka {max-width: 330px;} #mb-6::before, .wrap-statya::after, .wrap-statya::before, .man::after {display: none;} .stats {width: 100%;}
+.stan-hб, .main-leftbar h1 {font-size: 24px;} .m-name, .m-phone {width: 260px;} .stan-h::before, .stan-h::after {display: none;}
+#m-b1 {padding: 0;} .ico {width: 90%;} .zayavka {flex-direction: column;} .zayavka-txt {margin-top: 15px;} .zayavka-txt p {margin-bottom: 8px;}
