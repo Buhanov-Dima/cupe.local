@@ -3,4 +3,8 @@
 .contacts {padding: 25px 0; min-height: auto;} .wrapper-timer, .wrapper-skidka {max-width: 330px;} #mb-6::before, .wrap-statya::after, .wrap-statya::before, .man::after {display: none;} .stats {width: 100%;}
 .stan-hб, .main-leftbar h1 {font-size: 24px;} .m-name, .m-phone {width: 260px;} .stan-h::before, .stan-h::after {display: none;}
 #m-b1 {padding: 0;} .ico {width: 90%;} .zayavka {flex-direction: column;} .zayavka-txt {margin-top: 15px;} .zayavka-txt p {margin-bottom: 8px;} .cupe-img-b1 img {width: 100%; min-height: 250px;}
-.cupe-txt-b1 p {text-align: center;}
+.cupe-txt-b1 p {text-align: center;} .setka {width: 290px;}
+.graph-line i:first-child {width: 36px; left: 44px; top: 137px;} .graph-line i:nth-child(2) {top: 113px; width: 106px; left: 75px;} .graph-line i:nth-child(3) {width: 62px; top: 83px; left: 179px;}
+.graph-line i:nth-child(4) {width: 31px; right: 62px; top: 60px;}
+#gl-p1 {top: 92px; left: 57px; font-size: 12px; padding: 0 5px; line-height: 18px;} #gl-p2 {top: 69px; left: 159px; font-size: 12px; padding: 0 5px; line-height: 18px;} #gl-p3 {top: 36px; right: 74px; font-size: 12px; padding: 0 5px; line-height: 18px;}
+#gl-p1::after, #gl-p2::after, #gl-p3::after {left: 15px; bottom: -11px; border: 6px solid transparent; border-top: 6px solid #ffffff;}

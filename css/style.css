@@ -227,7 +227,36 @@ header {position: relative; z-index: 100;}
   font-size: 16px;
   font-family: "ProximaNova";
   color: rgb(255, 255, 255);
+  transition: 0.3s ease-in-out;
 }
+.ct-btn2:before {
+    content: "";
+    background-color: rgba(255,255,255,0.5);
+    height: 100%;
+    width: 3em;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: -4.5em;
+    transform: skewX(-45deg) translateX(0);
+    transition: none;
+  }
+  .ct-btn2:hover {
+    background-color: $color;
+    color: #fff;
+    border-bottom: 4px solid darken($color, 10%);
+  }
+    .ct-btn2:before:hover  {
+      transform: skewX(-45deg) translateX(13.5em);
+     transition: all 0.5s ease-in-out;
+    }
+
+    
+.girl-3 .ct-btn2:hover {
+      background: rgb(254,177,1); 
+      color: #ffffff;
+}
+
 footer {
 	background: #333333;
 	margin-top: 80px;
