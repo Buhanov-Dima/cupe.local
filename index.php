@@ -7,7 +7,7 @@
 		<div class="row align-items-center">
 			<div class="col-xl-8">
 				<div class="main-leftbar">
-					<h1>ПРОИЗВОДСТВО И МОНТАЖ ВСТРОЕННОЙ И КОРПУСНОЙ МЕБЕЛИ</h1>
+					<h1 class="wow slideInLeft animated">ПРОИЗВОДСТВО И МОНТАЖ ВСТРОЕННОЙ И КОРПУСНОЙ МЕБЕЛИ</h1>
 					<div class="m-icon d-flex justify-content-between">
 						<div class="ico bg-1">
 							<p>9 Лет на рынке</p>
@@ -28,7 +28,7 @@
 				</div>
 			</div>
 			<div class="col-xl-4">
-				<div class="wrap-main-rightbar">
+				<div class="wrap-main-rightbar wow slideInDown animated">
 					<form action="" class="main-form">
 						<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
 						<input type="text" name="" class="m-name" placeholder="Ваше имя">
@@ -47,7 +47,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12 text-center">
-				<h1 class="stan-h">Виды шкафов</h1>
+				<h1 class="stan-h wow slideInDown animated">Виды шкафов</h1>
 			</div>
 			<div class="col-xl-4">
 				<div class="wrapper-cat-item">
@@ -92,7 +92,7 @@
 			</div>
 
 			<div class="col-xl-12 text-center">
-				<h1 class="stan-h">Каталог</h1>
+				<h1 class="stan-h wow slideInDown animated">Каталог</h1>
 			</div>
 
 			<div class="col-xl-12">
@@ -147,9 +147,9 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="ideas">
-					<h1 class="stan-h text-center">4 простых шага <br> от идеи до реализации</h1>
+					<h1 class="stan-h text-center wow slideInDown animated">4 простых шага <br> от идеи до реализации</h1>
 					<div class="wrap-zayavka">
-						<div class="zayavka">
+						<div class="zayavka wow slideInLeft animated">
 							<img src="/img/icons/ico-5.png" alt="">
 							<div class="zayavka-txt">
 								<p><b>Заявка и бесплатный выезд на замеры</b></p>
@@ -157,7 +157,7 @@
 							</div>
 						</div>
 
-						<div class="zayavka">
+						<div class="zayavka wow slideInRight animated">
 							<img src="/img/icons/ico-6.png" alt="">
 							<div class="zayavka-txt">
 								<p><b>Создание дизайн-проекта</b></p>
@@ -165,7 +165,7 @@
 							</div>
 						</div>
 
-						<div class="zayavka">
+						<div class="zayavka wow slideInLeft animated">
 							<img src="/img/icons/ico-7.png" alt="">
 							<div class="zayavka-txt">
 								<p><b>Производство</b></p>
@@ -173,7 +173,7 @@
 							</div>
 						</div>
 
-						<div class="zayavka">
+						<div class="zayavka wow slideInRight animated">
 							<img src="/img/icons/ico-8.png" alt="">
 							<div class="zayavka-txt">
 								<p><b>Доставка и сбор</b></p>
@@ -192,7 +192,7 @@
 		<div class="row no-gutters">
 			<div class="col-xl-12">
 				<div class="wrap-news">
-					<h3>Статьи и новости</h3>
+					<h3 class="wow slideInDown animated">Статьи и новости</h3>
 					<div class="wrap-statya">
 						<div class="stats">
 							<div class="statya">
@@ -224,7 +224,7 @@
 					<form action="" class="open-form">
 						<input type="text" name="" class="phone" placeholder="Ваш телефон:">
 						<input type="text" name="" class="name" placeholder="Ваше имя:">
-						<button class="ct-btn2">Оставить заявку</button>
+						<button class="ct-btn3">Оставить заявку</button>
 					</form>
 					<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных <br>и соглашаетесь c политикой конфиденциальности»</p>
 				</div>

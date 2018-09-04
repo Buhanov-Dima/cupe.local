@@ -161,7 +161,7 @@
 				<form action="" class="open-form">
 					<input type="text" name="" class="phone" placeholder="Ваш телефон:">
 					<input type="text" name="" class="name" placeholder="Ваше имя:">
-					<button class="ct-btn2">Оставить заявку</button>
+					<button class="ct-btn3">Оставить заявку</button>
 				</form>
 				<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных <br>и соглашаетесь c политикой конфиденциальности»</p>
 			</div>

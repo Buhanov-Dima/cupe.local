@@ -9,17 +9,17 @@
 	<div class="row">
 		<div class="col-xl-12">
 			<div class="wrap-article">
-				<h3>Название статьи</h3>
+				<h3 class="wow slideInDown animated">Название статьи</h3>
 				<p><b>На что обратить внимание при выборе шкафа-купе</b></p>
 				<p>Равным образом новая модель организационной деятельности требуют определения и уточнения форм развития. Повседневная практика показывает, что постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки существенных финансовых и административных условий. Равным образом консультация с широким активом требуют определения и уточнения позиций, занимаемых участниками в отношении поставленных задач. Повседневная практика показывает, что рамки и место обучения кадров требуют от нас анализа позиций, занимаемых участниками в отношении поставленных задач.</p>
 				<div class="wrap-article-img">
-					<div class="article-img">
+					<div class="article-img slideInLeft animated">
 						<div class="art-main-img">
 							<img src="/img/main/hand.jpg" alt="">
 						</div>
 					</div>
 
-					<div class="article-img">
+					<div class="article-img slideInRight animated">
 						<div class="art-main-img">
 							<img src="/img/main/hand.jpg" alt="">
 						</div>
@@ -28,7 +28,7 @@
 				<p>Значимость этих проблем настолько очевидна, что сложившаяся структура организации способствует подготовки и реализации форм развития. Идейные соображения высшего порядка, а также постоянный количественный рост и сфера нашей активности позволяет оценить значение дальнейших направлений развития.</p>
 				<div class="wrap-txt-img">
 					<p>Задача организации, в особенности же начало повседневной работы по формированию позиции позволяет оценить значение направлений прогрессивного развития. Задача организации, в особенности же консультация с широким активом в значительной степени обуславливает создание направлений прогрессивного развития. Товарищи! сложившаяся структура организации требуют от нас анализа новых предложений. С другой стороны дальнейшее развитие различных форм деятельности обеспечивает широкому кругу (специалистов) участие в формировании новых предложений. Значимость этих проблем настолько очевидна, что постоянный количественный рост и сфера нашей активности позволяет выполнять важные задания по разработке системы обучения кадров, соответствует насущным потребностям.</p>
-					<div class="article-img">
+					<div class="article-img slideInRight animated">
 						<div class="art-main-img">
 							<img src="/img/main/hand.jpg" alt="">
 						</div>
@@ -47,7 +47,7 @@
 				<div class="similar-articles">
 					<h3>Похожие статьи и новости</h3>
 					<div class="wrap-similar">
-						<div class="similar">
+						<div class="similar wow slideInLeft animated">
 							<div class="sim-img">
 								<div class="art-main-img">
 									<img src="/img/main/hand.jpg" alt="">
@@ -59,7 +59,7 @@
 							</div>
 						</div>
 
-						<div class="similar">
+						<div class="similar wow slideInRight animated">
 							<div class="sim-img">
 								<div class="art-main-img">
 									<img src="/img/main/hand.jpg" alt="">
@@ -71,7 +71,7 @@
 							</div>
 						</div>
 
-						<div class="similar">
+						<div class="similar wow slideInLeft animated">
 							<div class="sim-img">
 								<div class="art-main-img">
 									<img src="/img/main/hand.jpg" alt="">
@@ -83,7 +83,7 @@
 							</div>
 						</div>
 
-						<div class="similar">
+						<div class="similar wow slideInRight animated">
 							<div class="sim-img">
 								<div class="art-main-img">
 									<img src="/img/main/hand.jpg" alt="">
@@ -111,7 +111,7 @@
 					<form action="" class="open-form">
 						<input type="text" name="" class="phone" placeholder="Ваш телефон:">
 						<input type="text" name="" class="name" placeholder="Ваше имя:">
-						<button class="ct-btn2">Оставить заявку</button>
+						<button class="ct-btn3">Оставить заявку</button>
 					</form>
 					<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных <br>и соглашаетесь c политикой конфиденциальности»</p>
 				</div>

@@ -10,7 +10,7 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="company-b1">
-					<h1>NINELINE - Производство и монтаж встроенной корпусной мебели</h1>
+					<h1 class="wow slideInDown animated">NINELINE - Производство и монтаж встроенной корпусной мебели</h1>
 					<div class="company-ico">
 						<div class="comp-ico">
 							<div class="c-b1-ico"><img src="/img/icons/ico-13.png" alt=""></div>
@@ -72,14 +72,14 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="company-b2">
-					<div class="comp-b2-txt">
+					<div class="comp-b2-txt wow slideInLeft animated">
 						<h3>Производство</h3>
 						<p>Мы поставляем мебель исключительно от производителя. Широкий каталог материалов, фурнитуры и комплектующих от нашей российско-итальянской фабрики и партнеров-производителей дают возможность выбрать как готовые модели, так и изготовить индивидуальный проект любой сложности.</p>
 					</div>
-					<div class="comp-b2-img1">
+					<div class="comp-b2-img1 wow slideInUp animated">
 						<img src="/img/main/shkaf.png" alt="">
 					</div>
-					<div class="comp-b2-txt">
+					<div class="comp-b2-txt wow slideInRight animated">
 						<h3>Функциональность</h3>
 						<p>Команда квалифицированных дизайнеров разработают проект с учетом ваших личных предпочтений и интерьера помещения. А также сделают ваш шкаф максимально удобным и функциональнным в зависимости от его назначения и места установки.</p>
 					</div>
@@ -95,7 +95,7 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="comp-b3">
-					<h1>Наши проекты</h1>
+					<h1 class="wow slideInDown animated">Наши проекты</h1>
 					<div class="company-slaider owl-carousel owl-theme">
 						<div class="item">
 							<div class="comp-b2-img">
@@ -192,7 +192,7 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="comp-b4">
-					<h3>Отзывы</h3>
+					<h3 class="wow slideInDown animated">Отзывы</h3>
 					<div class="slaider-reviews owl-carousel owl-theme">
 						<div>
 							<div class="reviews-b4">
