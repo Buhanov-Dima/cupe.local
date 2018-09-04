@@ -20,8 +20,7 @@ $(document).ready(function(){
     $(".detail-slaider").owlCarousel({
     loop:true,
     margin:10,
-    nav:true,
-    navText:false,
+    nav:false,
     responsive:{
             0:{
                 items:1
@@ -38,7 +37,8 @@ $(document).ready(function(){
     $(".company-slaider").owlCarousel({
     loop:true,
     margin:30,
-    nav:true,
+    nav:false,
+    dots:true,
     navText:false,
     responsive:{
             0:{
@@ -55,26 +55,20 @@ $(document).ready(function(){
 
     $(".slaider-reviews").owlCarousel({
     loop:true,
-    margin:30,
+    margin:10,
     nav:true,
-    navText:false,
-    responsive:{
-            1000:{
-                items:1
-            }
-        }
+    navText:true,
+    dots:false,
+    items:1
     });
 
     $(".slaider-cupe").owlCarousel({
     loop:true,
-    margin:30,
-    nav:true,
+    margin:5,
+    nav:false,
     navText:false,
-    responsive:{
-            1000:{
-                items:1
-            }
-        }
+    dots:true,
+    items:1
     });
 
     $(".slaider-cupe-2").owlCarousel({

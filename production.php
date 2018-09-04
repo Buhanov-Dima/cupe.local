@@ -35,7 +35,7 @@
 							</div>
 						</div>
 						<div class="wrap-big-slaid-info">
-							<div class="detail-slaider owl-carousel">
+							<div class="detail-slaider owl-carousel owl-theme">
 								<div>
 									<li class="slide__item">
 										<a href="#" class="slide__link">

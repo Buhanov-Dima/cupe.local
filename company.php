@@ -76,8 +76,8 @@
 						<h3>Производство</h3>
 						<p>Мы поставляем мебель исключительно от производителя. Широкий каталог материалов, фурнитуры и комплектующих от нашей российско-итальянской фабрики и партнеров-производителей дают возможность выбрать как готовые модели, так и изготовить индивидуальный проект любой сложности.</p>
 					</div>
-					<div class="comp-b2-img">
-						<img src="/img/main/shkaf.jpg" alt="">
+					<div class="comp-b2-img1">
+						<img src="/img/main/shkaf.png" alt="">
 					</div>
 					<div class="comp-b2-txt">
 						<h3>Функциональность</h3>
@@ -90,14 +90,14 @@
 </section>
 
 
-<section>
+<section id="projects">
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="comp-b3">
 					<h1>Наши проекты</h1>
-					<div class="company-slaider owl-carousel">
-						<div>
+					<div class="company-slaider owl-carousel owl-theme">
+						<div class="item">
 							<div class="comp-b2-img">
 								<img src="/img/project/1.jpg" alt="">
 							</div>
@@ -111,7 +111,7 @@
 							</div>
 						</div>
 
-						<div>
+						<div class="item">
 							<div class="comp-b2-img">
 								<img src="/img/project/4.jpg" alt="">
 							</div>
@@ -125,7 +125,49 @@
 							</div>
 						</div>
 
-						<div>
+						<div class="item">
+							<div class="comp-b2-img">
+								<img src="/img/project/7.jpg" alt="">
+							</div>
+
+							<div class="comp-b2-img">
+								<img src="/img/project/8.jpg" alt="">
+							</div>
+
+							<div class="comp-b2-img">
+								<img src="/img/project/9.jpg" alt="">
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="comp-b2-img">
+								<img src="/img/project/7.jpg" alt="">
+							</div>
+
+							<div class="comp-b2-img">
+								<img src="/img/project/8.jpg" alt="">
+							</div>
+
+							<div class="comp-b2-img">
+								<img src="/img/project/9.jpg" alt="">
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="comp-b2-img">
+								<img src="/img/project/7.jpg" alt="">
+							</div>
+
+							<div class="comp-b2-img">
+								<img src="/img/project/8.jpg" alt="">
+							</div>
+
+							<div class="comp-b2-img">
+								<img src="/img/project/9.jpg" alt="">
+							</div>
+						</div>
+
+						<div class="item">
 							<div class="comp-b2-img">
 								<img src="/img/project/7.jpg" alt="">
 							</div>
@@ -151,7 +193,35 @@
 			<div class="col-xl-12">
 				<div class="comp-b4">
 					<h3>Отзывы</h3>
-					<div class="slaider-reviews owl-carousel">
+					<div class="slaider-reviews owl-carousel owl-theme">
+						<div>
+							<div class="reviews-b4">
+								<div class="rev-img">
+									<img src="/img/slaider/1.jpg" alt="">
+								</div>
+								<div class="rev-txt">
+									<img src="/img/team/4.png" alt="">
+									<p><b>Михаил Александрович</b></p>
+									<p>Огромное спасибо команде NineLine за прекрасную работу! Сделали все очень быстро: специалисты приехали в этот же вечер и сделали замеры.Скажиу честно, проект был сложным, но все реализовали на самом высшем уровне.</p>
+									<p>Всем рекомендую!</p>
+								</div>
+							</div>
+						</div>
+
+						<div>
+							<div class="reviews-b4">
+								<div class="rev-img">
+									<img src="/img/slaider/1.jpg" alt="">
+								</div>
+								<div class="rev-txt">
+									<img src="/img/team/4.png" alt="">
+									<p><b>Михаил Александрович</b></p>
+									<p>Огромное спасибо команде NineLine за прекрасную работу! Сделали все очень быстро: специалисты приехали в этот же вечер и сделали замеры.Скажиу честно, проект был сложным, но все реализовали на самом высшем уровне.</p>
+									<p>Всем рекомендую!</p>
+								</div>
+							</div>
+						</div>
+
 						<div>
 							<div class="reviews-b4">
 								<div class="rev-img">

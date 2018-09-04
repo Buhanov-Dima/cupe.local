@@ -4,7 +4,7 @@
 </header>
 
 <section id="slaider-cupe">
-	<div class="slaider-cupe owl-carousel">
+	<div class="slaider-cupe owl-carousel owl-theme">
 		<div>
 			<div class="cupe-img-b1"><img src="/img/slaider/2.jpg" alt=""></div>
 			<div class="cupe-txt-b1">
@@ -55,7 +55,49 @@
 						<p><b>Эффективное использование пространства.</b><br>Главное - грамотное распределение внутренней составляющей шкафа. Тогда в нем может разместиться действительно много вещей: одежда и даже бытовые приборы.</p>
 						<p><b>Простота в уходе.</b><br> Во встренных шкафах, нет стенки и потолка, где скапливается пыль и различный мусор.</p>
 					</div>
-					<div class="slaider-cupe-2 owl-carousel">
+					<div class="slaider-cupe-2 owl-carousel owl-theme">
+						<div>
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+						</div>
+
+						<div>
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+						</div>
+
+						<div>
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+
+							<div class="sl-img-2">
+								<img src="/img/cupe/1.jpg" alt="">
+							</div>
+						</div>
+
 						<div>
 							<div class="sl-img-2">
 								<img src="/img/cupe/1.jpg" alt="">

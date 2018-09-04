@@ -25,16 +25,25 @@
 	  <div class="collapse navbar-collapse" id="navbarNav">
 	    <ul class="navbar-nav">
 	      <li class="nav-item active">
-	        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+	        <a class="nav-link" href="#">О компании <span class="sr-only">(current)</span></a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#">Features</a>
+	        <a class="nav-link" href="#">Производство</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#">Pricing</a>
+	        <a class="nav-link" href="#">Виды шкафов</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link disabled" href="#">Disabled</a>
+	        <a class="nav-link" href="#">Каталог</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#">Калькулятор</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#">Статьи</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#">Контакты</a>
 	      </li>
 	    </ul>
 	  </div>

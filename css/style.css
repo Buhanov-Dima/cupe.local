@@ -952,6 +952,19 @@ footer {
   top: 90px;
   width: 100%;
 }
+.maps::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-box-shadow: inset 0px 3px 11px -2px rgba(0,0,0,0.43);
+  -moz-box-shadow: inset 0px 3px 11px -2px rgba(0,0,0,0.43);
+  box-shadow: inset 0px 6px 13px 0px rgba(0,0,0,0.43);
+  width: 100%;
+  height: 15px;
+  z-index: 99;
+}
+
 .c-ico {
   margin-bottom: 15px;  
 }
@@ -1520,7 +1533,7 @@ footer {
   width: 60%;
 }
 .wrap-article p{
-  
+  font-size: 16px;
 }
 .sim-img {
   position: relative;
@@ -1560,7 +1573,7 @@ footer {
   font-size: 30px;
   font-family: "ProximaNova-Bold";
   text-align: center;
-  margin-top: 50px;
+  margin-top: 70px;
 }
 
 .art-name h5{
@@ -1618,13 +1631,19 @@ footer {
   background-size: cover;
 }
 
-.comp-b2-img {
+.comp-b2-img1 {
   position: relative;
-  overflow: hidden;
   width: 100%;
   max-width: 360px;
   text-align: center;
   margin-bottom: 15px;
+}
+.comp-b2-img {
+  position: relative;
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 .company-b2 {
@@ -1757,6 +1776,7 @@ footer {
   max-width: 360px;
   max-height: 700px;
 }
+
 .cupe-b2-txt1 p{
   font-size: 18px;
   color: rgb(51, 51, 51);
@@ -1783,8 +1803,13 @@ footer {
 .cupe-item a{
   font-size: 15.539px;
   color: rgb(255, 255, 255);
+  line-height: 60px;
+  padding: 0 15px;
+  transition: 0.3s ease-in-out;
 }
-
+.cupe-item a:hover {
+  background: #085ca9;
+}
 .cupe-item {
   max-width: 1110px;
   width: 100%;
@@ -1809,4 +1834,149 @@ footer {
 .slaider-cupe-2 .sl-img-2 img {
   width: 360px;
   height: auto;
+}
+
+#similar {
+  background: #ecf1f5;
+  margin-top: 70px;
+}
+
+.comp-b2-img1::before {
+  content: '';
+  position: absolute;
+  width: 125px;
+  height: 125px;
+  border: 3px solid #008bd0;
+  top: -10px;
+  right: 75px;
+  z-index: -1;
+}
+#projects {position: relative;}
+
+.comp-b3::before {
+  content: '';
+  position: absolute;
+  width: 245px;
+  height: 245px;
+  border: 3px solid #008bd0;
+  top: 120px;
+  left: -35px;
+  z-index: -1;
+}
+
+.comp-b3::after {
+  content: '';
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #008bd0;
+  top: 330px;
+  right: -85px;
+  z-index: -1;
+}
+#projects::before {
+  content: '';
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  border: 3px solid #008bd0;
+  bottom: 211px;
+  left: 150px;
+  z-index: -1;
+}
+#projects::after {
+  content: '';
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  border: 3px solid #008bd0;
+  bottom: 39px;
+  right: 360px;
+  z-index: -1;
+}
+.cupe-b2-txt1::before {
+  content: '';
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  border: 3px solid #008bd0;
+  top: 310px;
+  right: 330px;
+  z-index: -1;
+}
+
+.cupe-b2-txt1::after {
+  content: '';
+  position: absolute;
+  width: 245px;
+  height: 245px;
+  border: 3px solid #008bd0;
+  top: 610px;
+  left: 330px;
+  z-index: -1;
+}
+
+
+.owl-carousel .owl-dots.disabled {display: block;}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {background: #1359cf;}
+.owl-theme .owl-dots .owl-dot span {width: 16px; height: 16px; background: #ecf1f5;}
+
+.slaider-reviews .owl-nav button.owl-prev { 
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 30px 0px rgba(0, 20, 30, 0.15);
+  position: relative;
+  transition: 0.3s ease-in-out;
+  position: absolute;
+  left: -75px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.slaider-reviews .owl-nav button.owl-prev::before {
+  content: '';
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  border-top:2px solid #333333;
+  border-right: 2px solid #333333;
+  transform: rotate(-135deg);
+  top: 19px;
+  right: 17px;
+}
+
+.slaider-reviews .owl-nav button.owl-next { 
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 30px 0px rgba(0, 20, 30, 0.15);
+  position: relative;
+  transition: 0.3s ease-in-out;
+  position: absolute;
+  right: -75px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.slaider-reviews .owl-nav button.owl-next:hover, .slaider-reviews .owl-nav button.owl-prev:hover {
+  background-color: #008bd0;
+}
+
+.slaider-reviews .owl-nav button.owl-next::before {
+  content: '';
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  border-top:2px solid #333333;
+  border-right: 2px solid #333333;
+  transform: rotate(45deg);
+  top: 19px;
+  left: 17px;
+}
+.slaider-cupe .owl-nav.disabled+.owl-dots {
+  position: relative;
+  top: -85px;
 }

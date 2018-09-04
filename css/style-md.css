@@ -1,3 +1,4 @@
 .ct-form::before, .girl-2::before, .man::before, .girl-3::before, .girl-4::before, .man-2::before {display: none;} .ct-form p, .girl-2 p, .man p, .girl-3 p, .girl-4 p, .man-2 p {padding: 25px 0 0;}
 .wrap-timer h1 {font-size: 26px;} .wrapper-timer, .wrapper-skidka {max-width: 510px;} .zayavka {width: 100%;} .stats {width: 90%;} .wrap-statya {justify-content: center;}
-.statya {max-width: 530px;} 
+.statya {max-width: 530px;} .similar {width: 100%; flex-direction: column;} .wrap-cat-main h1 {font-size: 26px;} .slaider-reviews {max-width: 520px;} .slaider-reviews .owl-nav button.owl-next, .slaider-reviews .owl-nav button.owl-prev {display: none;}
+.bg-blue {height: auto;} .cupe-b2-txt1 {max-width: none;} .cupe-item {flex-wrap: wrap; justify-content: space-around;} .sl-img-2 {margin: 0 auto 30px;} .review {width: 100%;}
