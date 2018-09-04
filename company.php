@@ -99,85 +99,121 @@
 					<div class="company-slaider owl-carousel owl-theme">
 						<div class="item">
 							<div class="comp-b2-img">
-								<img src="/img/project/1.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/1.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/2.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/2.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/3.jpg" alt="">
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="comp-b2-img">
-								<img src="/img/project/4.jpg" alt="">
-							</div>
-
-							<div class="comp-b2-img">
-								<img src="/img/project/5.jpg" alt="">
-							</div>
-
-							<div class="comp-b2-img">
-								<img src="/img/project/6.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/3.jpg" alt="">
+								</div>
 							</div>
 						</div>
 
 						<div class="item">
 							<div class="comp-b2-img">
-								<img src="/img/project/7.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/4.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/8.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/5.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/9.jpg" alt="">
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="comp-b2-img">
-								<img src="/img/project/7.jpg" alt="">
-							</div>
-
-							<div class="comp-b2-img">
-								<img src="/img/project/8.jpg" alt="">
-							</div>
-
-							<div class="comp-b2-img">
-								<img src="/img/project/9.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/6.jpg" alt="">
+								</div>
 							</div>
 						</div>
 
 						<div class="item">
 							<div class="comp-b2-img">
-								<img src="/img/project/7.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/7.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/8.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/8.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/9.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/9.jpg" alt="">
+								</div>
 							</div>
 						</div>
 
 						<div class="item">
 							<div class="comp-b2-img">
-								<img src="/img/project/7.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/1.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/8.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/2.jpg" alt="">
+								</div>
 							</div>
 
 							<div class="comp-b2-img">
-								<img src="/img/project/9.jpg" alt="">
+								<div class="art-main-img">
+									<img src="/img/project/3.jpg" alt="">
+								</div>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="comp-b2-img">
+								<div class="art-main-img">
+									<img src="/img/project/4.jpg" alt="">
+								</div>
+							</div>
+
+							<div class="comp-b2-img">
+								<div class="art-main-img">
+									<img src="/img/project/5.jpg" alt="">
+								</div>
+							</div>
+
+							<div class="comp-b2-img">
+								<div class="art-main-img">
+									<img src="/img/project/6.jpg" alt="">
+								</div>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="comp-b2-img">
+								<div class="art-main-img">
+									<img src="/img/project/7.jpg" alt="">
+								</div>
+							</div>
+
+							<div class="comp-b2-img">
+								<div class="art-main-img">
+									<img src="/img/project/8.jpg" alt="">
+								</div>
+							</div>
+
+							<div class="comp-b2-img">
+								<div class="art-main-img">
+									<img src="/img/project/9.jpg" alt="">
+								</div>
 							</div>
 						</div>
 					</div>
@@ -197,7 +233,9 @@
 						<div>
 							<div class="reviews-b4">
 								<div class="rev-img">
-									<img src="/img/slaider/1.jpg" alt="">
+									<div class="art-main-img">
+										<img src="/img/slaider/1.jpg" alt="">
+									</div>
 								</div>
 								<div class="rev-txt">
 									<img src="/img/team/4.png" alt="">
@@ -211,7 +249,9 @@
 						<div>
 							<div class="reviews-b4">
 								<div class="rev-img">
-									<img src="/img/slaider/1.jpg" alt="">
+									<div class="art-main-img">
+										<img src="/img/slaider/1.jpg" alt="">
+									</div>
 								</div>
 								<div class="rev-txt">
 									<img src="/img/team/4.png" alt="">
@@ -225,7 +265,9 @@
 						<div>
 							<div class="reviews-b4">
 								<div class="rev-img">
-									<img src="/img/slaider/1.jpg" alt="">
+									<div class="art-main-img">
+										<img src="/img/slaider/1.jpg" alt="">
+									</div>
 								</div>
 								<div class="rev-txt">
 									<img src="/img/team/4.png" alt="">

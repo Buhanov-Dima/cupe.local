@@ -1661,6 +1661,7 @@ footer {
   max-width: 360px;
   text-align: center;
   margin-bottom: 30px;
+  height: 250px;
 }
 
 .company-b2 {
@@ -2047,4 +2048,22 @@ footer {
   background-image: -moz-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
   background-image: -webkit-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
   background-image: -ms-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+}
+
+.company-slaider .owl-item img {
+  display: initial;
+  max-width: 360px;
+}
+
+.rev-img {
+  position: relative;
+  max-width: 100%;
+  text-align: center;
+  height: 450px;
+}
+.slaider-reviews .owl-item img {
+  display: initial;
+  width: 100%;
+  max-width: 1140px;
+  max-height: 450px;
 }
