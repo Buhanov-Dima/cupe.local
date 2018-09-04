@@ -37,6 +37,36 @@
 		</div>
 	</div>
 </footer>
+	<div class="card">
+		<div class="card-body">
+			<div id="art-1" class="animated-modal">
+				<div class="wrap-popup">
+	          		<div class="wrap-main-rightbar">
+						<form action="" class="main-form1">
+							<h3>Получите <span>БЕСПЛАТНУЮ</span> консультацию специалиста</h3>
+							<input type="text" name="" class="m-name" placeholder="Ваше имя">
+							<input type="text" name="" class="m-phone" placeholder="Ваш телефон">
+							<button class="btn-form">Оставить заявку</button>
+							<p>«Нажимая на кнопку, вы даете согласие на обработку персональных данных и соглашаетесь c политикой конфиденциальности»</p>
+						</form>
+					</div>
+	          	</div>
+	        </div>
+	    </div>
+	</div>
+
+	<div class="card">
+		<div class="card-body">
+			<div id="thanks" class="animated-modal">
+				<div class="wrap-popup-2">
+	          		<h3>Спасибо за обращение</h3>
+	          		<p>Наш специалист свяжется с вами в ближайшее время</p>
+	          	</div>
+	        </div>
+	    </div>
+	</div>
+
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>

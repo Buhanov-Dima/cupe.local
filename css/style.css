@@ -1997,3 +1997,54 @@ footer {
   position: relative;
   top: -85px;
 }
+
+
+.wrap-popup-2 h3 {
+  font-family: 'ProximaNova-Semibold';
+  font-size: 22px;
+  color: #ffffff;
+}
+.wrap-popup-2 p {
+  font-size: 18px;
+  margin-top: 15px;
+  color: #ffffff;
+}
+.card {display: none;}
+
+#art-1 {padding: 0;}
+
+
+.main-form1 {
+  box-shadow: 0px 1px 30px 0px rgba(0, 20, 30, 0.3);
+  border-radius: 3px;
+  border: 1px solid rgb(188, 193, 196);
+  background-color: rgb(255, 255, 255);
+  padding: 55px 30px 30px;
+  text-align: center;
+  max-width: 370px;
+}
+
+
+.main-form1 h3 {
+  font-size: 18px;
+  font-family: "GothamPro";
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+
+.main-form1 span {
+  border-bottom: 2px solid #008bd2;
+}
+
+#thanks {padding: 0; border-radius: 4px;}
+.wrap-popup-2 {
+  text-align: center;
+  padding: 30px;
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  background-image: -webkit-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+  background-image: -ms-linear-gradient( 0deg, rgb(0,108,180) 0%, rgb(18,90,211) 100%);
+}
