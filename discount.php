@@ -18,11 +18,11 @@
 						</div>
 					</div>
 					<div class="wrapper-timer">
-						<div class="timer">
+						<div class="timer wow slideInDown animated">
 							<div id="defaultCountdown"></div>
 						</div>
-						<h1>СКИДКИ ДО 30%  НА ШКАФЫ КУПЕ</h1>
-						<a data-fancybox data-src="#skidka-1" href="javascript:;" class="btn-rmore">Узнать подробнее</a>
+						<h1 class="wow slideInLeft animated">СКИДКИ ДО 30%  НА ШКАФЫ КУПЕ</h1>
+						<a data-fancybox data-src="#skidka-1" href="javascript:;" class="btn-rmore wow slideInRight animated">Узнать подробнее</a>
 
 						<div id="skidka-1" class="hidden-skidka">
 				       		<div class="wrap-main-rightbar">
@@ -43,7 +43,7 @@
 				</div>
 			</div>
 			<div class="col-xl-6">
-				<div class="skidka">
+				<div class="skidka wow slideInLeft animated">
 					<div class="skidka-img">
 						<div class="art-main-img">
 							<img src="/img/bg/bg-6.jpg" alt="">
@@ -72,7 +72,7 @@
 				</div>
 			</div>
 			<div class="col-xl-6">
-				<div class="skidka">
+				<div class="skidka wow slideInRight animated">
 					<div class="skidka-img">
 						<div class="art-main-img">
 							<img src="/img/bg/bg-6.jpg" alt="">

@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="wrap-cat-main product">
-					<h1>КАЧЕСТВО ПРОВЕРЕННОЕ ВРЕМЕНЕМ</h1>
+					<h1 class="wow slideInDown animated">КАЧЕСТВО ПРОВЕРЕННОЕ ВРЕМЕНЕМ</h1>
 				</div>
 			</div>
 		</div>
@@ -74,7 +74,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xl-12">
-			<h1 class="graph-h text-center">Количество довольных клиентов</h1>
+			<h1 class="graph-h text-center wow slideInDown animated">Количество довольных клиентов</h1>
 			<div class="graphic">
 				<div class="setka">
 					<p id="gp-p1">16 000</p>
@@ -105,17 +105,17 @@
 	<div class="row">
 		<div class="col-xl-12">
 			<div class="wrap-team">
-				<h1 class="graph-h text-left">Наша задача</h1>
-				<div class="graph-txt">
+				<h1 class="graph-h text-left wow slideInDown animated">Наша задача</h1>
+				<div class="graph-txt wow slideInLeft animated">
 					<p>Определить потребность каждого клиента и разработать для него уникальный продукт. Наша клиентоориентированность и любовь к своему делу позволяет компании NineLine быть лидером рынка шкафов купе в Московском регионе и ежегодно радовать десятки тысяч клиентов.</p>
 				</div>
-				<h1 class="graph-h text-left">Замерщики</h1>
-				<div class="graph-txt">
+				<h1 class="graph-h text-left wow slideInDown animated">Замерщики</h1>
+				<div class="graph-txt wow slideInLeft animated">
 					<p>Замерщики компании NineLine всегда приезжают вовремя и могут ответить на любой вопрос заказчика, помочь подобрать самый оптимальный вариант для любого типа помоещения в зависисмости от метражности, дизайна интерьера, пожеланий клиента, его бюджета и других критерий.</p>
 					<p>Наши замерщики каждый год сдают внутреннюю аттестацию и проходят тренинги и семинары, которые помогают лучше разбираться в современных тенденциях в сфере дизайна.</p>
 				</div>
 				<div class="mg-t-50 d-flex-wrap">
-					<div class="team">
+					<div class="team wow slideInUp animated">
 						<div class="sotrudnik">
 							<div class="art-main-img">
 								<img src="/img/team/1.jpg" alt="">
@@ -126,7 +126,7 @@
 						<p><b>выполнил 30 проектов</b></p>
 					</div>
 
-					<div class="team">
+					<div class="team wow slideInDown animated">
 						<div class="sotrudnik">
 							<div class="art-main-img">
 								<img src="/img/team/2.jpg" alt="">
@@ -137,7 +137,7 @@
 						<p><b>выполнил 30 проектов</b></p>
 					</div>
 
-					<div class="team">
+					<div class="team wow slideInUp animated">
 						<div class="sotrudnik">
 							<div class="art-main-img">
 								<img src="/img/team/3.jpg" alt="">

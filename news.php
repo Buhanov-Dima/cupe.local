@@ -11,9 +11,9 @@
 		<div class="row no-gutters">
 			<div class="col-xl-12">
 				<div class="wrap-news">
-					<h3>Статьи и новости</h3>
+					<h3 class="wow slideInDown animated">Статьи и новости</h3>
 					<div class="wrap-statya main-news">
-						<div class="stats">
+						<div class="stats wow slideInLeft animated">
 							<div class="statya">
 								<div class="stat-img"><img src="/img/main/hand.jpg" alt=""></div>
 							</div>
@@ -21,7 +21,7 @@
 							<p>Шкаф-купе - это очень удобно и практично. Благодаря раздвижным <br>дверям, он не сужает пространство комнаты, а высокие стенки <br>(почти под потолок), позволяют сложить в шкаф все, что нужно...</p>
 						</div>
 
-						<div class="stats">
+						<div class="stats wow slideInRight animated">
 							<div class="statya">
 								<div class="stat-img"><img src="/img/main/hand.jpg" alt=""></div>
 							</div>
@@ -29,7 +29,7 @@
 							<p>Шкаф-купе - это очень удобно и практично. Благодаря раздвижным <br>дверям, он не сужает пространство комнаты, а высокие стенки <br>(почти под потолок), позволяют сложить в шкаф все, что нужно...</p>
 						</div>
 
-						<div class="stats">
+						<div class="stats wow slideInLeft animated">
 							<div class="statya">
 								<div class="stat-img"><img src="/img/main/hand.jpg" alt=""></div>
 							</div>
@@ -37,7 +37,7 @@
 							<p>Шкаф-купе - это очень удобно и практично. Благодаря раздвижным <br>дверям, он не сужает пространство комнаты, а высокие стенки <br>(почти под потолок), позволяют сложить в шкаф все, что нужно...</p>
 						</div>
 
-						<div class="stats">
+						<div class="stats wow slideInRight animated">
 							<div class="statya">
 								<div class="stat-img"><img src="/img/main/hand.jpg" alt=""></div>
 							</div>

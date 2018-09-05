@@ -51,15 +51,19 @@
 			</div>
 			<div class="col-xl-4">
 				<div class="wrapper-cat-item">
-					<div class="cat-item">
-						<div class="cm-main"><img src="/img/catalogy/item-4.jpg" alt=""></div>
-						<div class="cm-txt"><p>Встроенные</p></div>
-					</div>
+					<a href="">
+						<div class="cat-item">
+							<div class="cm-main"><img src="/img/catalogy/item-4.jpg" alt=""></div>
+							<div class="cm-txt"><p>Встроенные</p></div>
+						</div>
+					</a>
 
-					<div class="cat-item">
-						<div class="cm-main"><img src="/img/catalogy/item-7.jpg" alt=""></div>
-						<div class="cm-txt"><p>Угловые</p></div>
-					</div>
+					<a href="">
+						<div class="cat-item">
+							<div class="cm-main"><img src="/img/catalogy/item-7.jpg" alt=""></div>
+							<div class="cm-txt"><p>Угловые</p></div>
+						</div>
+					</a>
 				</div>
 			</div>
 
