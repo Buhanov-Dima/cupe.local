@@ -8,3 +8,4 @@
 .graph-line i:nth-child(4) {width: 31px; right: 62px; top: 60px;}
 #gl-p1 {top: 92px; left: 57px; font-size: 12px; padding: 0 5px; line-height: 18px;} #gl-p2 {top: 69px; left: 159px; font-size: 12px; padding: 0 5px; line-height: 18px;} #gl-p3 {top: 36px; right: 74px; font-size: 12px; padding: 0 5px; line-height: 18px;}
 #gl-p1::after, #gl-p2::after, #gl-p3::after {left: 15px; bottom: -11px; border: 6px solid transparent; border-top: 6px solid #ffffff;}
+.slaider-cupe-2, .slaider-cupe-3, .slaider-cupe-4, .slaider-cupe-5, .slaider-cupe-6, .slaider-cupe-7 {max-width: 360px;}
