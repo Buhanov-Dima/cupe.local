@@ -4,4 +4,4 @@
 .bg-blue {height: auto;} .cupe-b2-txt1 {max-width: none;} .cupe-item {flex-wrap: wrap; justify-content: space-around;} .sl-img-2 {margin: 0 auto 30px;} .review {width: 100%;}
 #gp-p1, #gp-p2, #gp-p3 {display: none;} .graphic {padding: 20px;} .setka {width: 468px; height: 166px;} .graph-line i:first-child {width: 59px; left: 60px; top: 160px; transform: rotate(138deg);}
 .graph-line i:nth-child(2) {top: 121px; width: 167px; left: 112px;} .graph-line i:nth-child(3) {width: 109px; top: 76px; left: 271px; transform: rotate(149deg);} .graph-line i:nth-child(4) {width: 46px; right: 89px; top: 34px;}
-#gl-p1 {top: 85px; left: 76px;} #gl-p2 {left: 240px; top: 51px;} #gl-p3 {top: 0px; right: 101px;}
+#gl-p1 {top: 85px; left: 76px;} #gl-p2 {left: 240px; top: 51px;} #gl-p3 {top: 0px; right: 101px;} .tab-box {flex-wrap: wrap; justify-content: space-around;}

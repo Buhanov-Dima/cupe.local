@@ -89,6 +89,96 @@ $(document).ready(function(){
         }
     });
 
+    $(".slaider-cupe-3").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:2
+            }
+        }
+    });
+
+    $(".slaider-cupe-4").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:2
+            }
+        }
+    });
+
+    $(".slaider-cupe-5").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:2
+            }
+        }
+    });
+
+    $(".slaider-cupe-6").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:2
+            }
+        }
+    });
+
+    $(".slaider-cupe-7").owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+    navText:false,
+    responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:2
+            }
+        }
+    });
+
 
     $('.slide__link').on('click', function(e){
         e.preventDefault();
@@ -126,7 +216,7 @@ $(document).ready(function(){
         $('.tab-box .active').removeClass('active');
         $(this).addClass('active');
         var tab = $(this).attr('href');
-        $('.cupe-b2-txt1').not(tab).css({'display':'none'});
+        $('.cupe-b2-main').not(tab).css({'display':'none'});
         $(tab).fadeIn(400);
     })
 });

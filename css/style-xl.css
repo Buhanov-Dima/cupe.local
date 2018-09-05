@@ -10,4 +10,5 @@
 #gp-p1 {top: 73px;}  #gp-p2 {top: 131px;} #gp-p3 {top: 188px;} .article-img {margin: 30px auto;} .wrap-txt-img {flex-wrap: wrap;} .wrap-txt-img p {width: 100%;}
 .similar {width: 80%; margin: 15px auto;} .company-b2 {flex-direction: column; align-items: center;} .comp-b2-img1 {margin-top: 45px;} .slaider-reviews {max-width: 600px;}
 .rev-txt {position: static; max-width: none; padding-bottom: 15px;} .rev-txt img {margin: 10px auto;} #slaider-cupe {top: 0; position: static;} #cupe-b2 {position: relative; top: -45px; z-index: 1;}
-.cupe-item a {font-size: 14px;} .cupe-b2-txt {flex-wrap: wrap;} 
+.cupe-item a {font-size: 14px;} .cupe-b2-txt {flex-wrap: wrap;} .tab-box a {font-size: 14.5px;} .slaider-cupe-2, .slaider-cupe-3, .slaider-cupe-4, .slaider-cupe-5, .slaider-cupe-6, .slaider-cupe-7 {width: 100%; margin: auto;}
+.cupe-b2-txt1 {width: 100%; max-width: none;} .sl-img-2 {margin: 30px auto;}
